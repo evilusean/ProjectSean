@@ -7,3 +7,5 @@ I just remembered I already built a chatbot over a year ago, which I forgot abou
 Each project will require:</br>
 Start Date / End Date / Tech Used / Project DescriptSean / Summary </br>
 What if I just want a quick list? Name + Date - can link to project with further details/summary/descriptsean</br>
+
+Future Sean : Seperate Into 3 parts - By Date - By Course(self directed, tutorial/course) - and by Language
