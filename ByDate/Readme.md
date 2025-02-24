@@ -2,6 +2,74 @@ All Projects Sorted by reverse chronological date</br>
 
 ## 
 ## 29April2021 - MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python - https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science
+# MIT-6.002x Programs
+
+This repository contains various programs related to computational thinking and data science. Below is a list of the programs along with their links.
+
+| Program Name                                                                 | Summary                                      |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| [FinalTest](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/tree/main/FinalTest) | Final test files for the course.            |
+| [Midtem](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/tree/main/Midtem) | Midterm exam files for the course.          |
+| [README.md](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/README.md) | The README file for the repository.          |
+| [Unit 1 CalorieCalculator](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit%201%20CalorieCalculator) | A calorie calculator program.                |
+| [Unit 1Decision Tree and Dynamic Programming](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit%201Decision%20Tree%20and%20Dynamic%20Programming) | Decision tree and dynamic programming examples. |
+| [Unit 1Knapsack Problem](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit%201Knapsack%20Problem) | Implementation of the knapsack problem.     |
+| [Unit1Lecture2Exercise2](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture2Exercise2) | Exercise 2 from Lecture 2.                  |
+| [Unit1Lecture2ExponentialCalorie](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture2ExponentialCalorie) | Exponential calorie calculation example.     |
+| [Unit1Lecture2FastCalorie](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture2FastCalorie) | Fast calorie calculation example.             |
+| [Unit1Lecture2GreedyCalorie](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture2GreedyCalorie) | Greedy algorithm for calorie calculation.    |
+| [Unit1Lecture3Exercise7](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture3Exercise7) | Exercise 7 from Lecture 3.                  |
+| [Unit1Lecture3GraphProblem](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture3GraphProblem) | Graph problem examples from Lecture 3.      |
+| [Unit1Lecture3VideoCodeTravelGraph](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture3VideoCodeTravelGraph) | Video code for travel graph example.         |
+| [Unit1Lecture3VideoCodeTravelNodes](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1Lecture3VideoCodeTravelNodes) | Video code for travel nodes example.         |
+| [Unit1ProblemSet1BruteForceCowTransport](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1ProblemSet1BruteForceCowTransport) | Brute force solution for cow transport problem. |
+| [Unit1ProblemSet1GreedyCowTransport](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit1ProblemSet1GreedyCowTransport) | Greedy solution for cow transport problem.   |
+| [Unit2Lecture4](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture4) | Lecture 4 materials.                         |
+| [Unit2Lecture4Retirement](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture4Retirement) | Retirement planning example.                  |
+| [Unit2Lecture4Test](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture4Test) | Test files for Lecture 4.                    |
+| [Unit2Lecture5Exercise3](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture5Exercise3) | Exercise 3 from Lecture 5.                  |
+| [Unit2Lecture5StochasticThinking](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture5StochasticThinking) | Stochastic thinking examples.                 |
+| [Unit2Lecture5VideoCode66](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture5VideoCode66) | Video code for Lecture 5.                    |
+| [Unit2Lecture5VideoCodeRollDice](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture5VideoCodeRollDice) | Video code for rolling dice example.         |
+| [Unit2Lecture6RandomWalkPlot](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture6RandomWalkPlot) | Random walk plotting example.                 |
+| [Unit2Lecture6RandomWalksDrunk](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture6RandomWalksDrunk) | Drunk random walk example.                    |
+| [Unit2Lecture6RandomWalksDrunkTest](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2Lecture6RandomWalksDrunkTest) | Test for drunk random walk example.           |
+| [Unit2ProblemSet2 RectangularRoomBa](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2ProblemSet2%20RectangularRoomBa) | Rectangular room problem set.                |
+| [Unit2ProblemSet2RandomWalkRobotClass](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2ProblemSet2RandomWalkRobotClass) | Random walk robot class implementation.       |
+| [Unit2ProblemSet2RobotClass](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2ProblemSet2RobotClass) | Robot class implementation for problem set.  |
+| [Unit2ProblemSet2RunningTheSimulation](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2ProblemSet2RunningTheSimulation) | Running the simulation for the problem set.  |
+| [Unit2ProblemSet2StandardRobotClass](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit2ProblemSet2StandardRobotClass) | Standard robot class implementation.          |
+| [Unit3Lecture7Exercise3](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture7Exercise3) | Exercise 3 from Lecture 7.                   |
+| [Unit3Lecture7GaussianBellSigmaMu](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture7GaussianBellSigmaMu) | Gaussian bell curve example.                  |
+| [Unit3Lecture7Roulette](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture7Roulette) | Roulette simulation example.                  |
+| [Unit3Lecture7RouletteMultiple](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture7RouletteMultiple) | Multiple roulette simulation example.         |
+| [Unit3Lecture8BiasedCoinFlip](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture8BiasedCoinFlip) | Biased coin flip simulation.                  |
+| [Unit3Lecture8Exercise4](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture8Exercise4) | Exercise 4 from Lecture 8.                   |
+| [Unit3Lecture8FlipCoin](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture8FlipCoin) | Coin flip simulation example.                 |
+| [Unit3Lecture8MonteCarloSimulations](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture8MonteCarloSimulations) | Monte Carlo simulations examples.             |
+| [Unit3Lecture9CompareDistributionSampleSize](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture9CompareDistributionSampleSize) | Comparing distribution sample sizes.          |
+| [Unit3Lecture9HeatSampling](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture9HeatSampling) | Heat sampling example.                        |
+| [Unit3Lecture9SamplingPlotting](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture9SamplingPlotting) | Sampling plotting example.                    |
+| [Unit3Lecture9StandardDeviation](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3Lecture9StandardDeviation) | Standard deviation calculation example.      |
+| [Unit3ProblemSet3.1VirusSimulation](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3ProblemSet3.1VirusSimulation) | Virus simulation for problem set 3.1.        |
+| [Unit3ProblemSet3.2VirusPlot](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3ProblemSet3.2VirusPlot) | Virus plot for problem set 3.2.              |
+| [Unit3ProblemSet3.3VirusResist](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3ProblemSet3.3VirusResist) | Virus resistance simulation for problem set 3.3. |
+| [Unit3ProblemSet3.4VirusClass](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3ProblemSet3.4VirusClass) | Virus class implementation for problem set 3.4. |
+| [Unit3ProblemSet3.5VirusPlot](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit3ProblemSet3.5VirusPlot) | Virus plot for problem set 3.5.              |
+| [Unit4ProblemSet4](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit4ProblemSet4) | Problem set 4 materials.                     |
+| [Unit4ProblemSet4.1CurveFitting](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit4ProblemSet4.1CurveFitting) | Curve fitting example for problem set 4.1.   |
+| [Unit4ProblemSet4.2R^2](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/Unit4ProblemSet4.2R%5E2) | R-squared calculation for problem set 4.2.   |
+| [data.csv](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/data.csv) | Data file used in various examples.          |
+| [ps1.py](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps1.py) | Problem set 1 implementation.                 |
+| [ps1_cow_data.txt](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps1%5Fcow%5Fdata.txt) | Cow data file for problem set 1.             |
+| [ps1_partition.py](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps1%5Fpartition.py) | Partition implementation for problem set 1.  |
+| [ps2.py](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps2.py) | Problem set 2 implementation.                 |
+| [ps2_verify_movement35.pyc](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps2%5Fverify%5Fmovement35.pyc) | Verification for movement in problem set 2.  |
+| [ps2_verify_movement36.pyc](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps2%5Fverify%5Fmovement36.pyc) | Verification for movement in problem set 2.  |
+| [ps2_visualize.py](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps2%5Fvisualize.py) | Visualization for problem set 2.             |
+| [ps3b.py](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps3b.py) | Problem set 3b implementation.                |
+| [ps4](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps4) | Problem set 4 materials.                     |
+
 ## 20April2021 - MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science - https://github.com/evilusean/FreeCodeCampPythonBeginners
 This repository contains various Python programs. Below is a list of the programs along with their links.
 
