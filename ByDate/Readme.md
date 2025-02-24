@@ -1,6 +1,6 @@
-All Projects Sorted by reverse chronological date
+All Projects Sorted by reverse chronological date</br>
 
 
-CompSci Class HS = 2006ish?
-WoW AFK Farm AV Bot/AutoClicker = 2004ish? 
-Neopets = 2003ish?
+CompSci Class HS = 2006ish?</br>
+WoW AFK Farm AV Bot/AutoClicker = 2004ish? </br>
+Neopets = 2003ish?</br>
