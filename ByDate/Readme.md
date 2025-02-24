@@ -1,7 +1,7 @@
 All Projects Sorted by reverse chronological date</br>
 
 ## 
-## 29April2021 - MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science - https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science
+## 26October2021 - MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science - https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science
 This repository contains various programs related to computational thinking and data science. Below is a list of the programs along with their links.
 
 | Program Name                                                                 | Summary                                      |
@@ -68,7 +68,75 @@ This repository contains various programs related to computational thinking and 
 | [ps3b.py](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps3b.py) | Problem set 3b implementation.                |
 | [ps4](https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science/blob/main/ps4) | Problem set 4 materials.                     |
 
-## 20April2021 - MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science - https://github.com/evilusean/FreeCodeCampPythonBeginners
+## 05June2021 - MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python - https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python
+This repository contains various programs related to the Introduction to Computer Science using Python. Below is a list of the programs along with their links.
+
+| Program Name                                                                 | Summary                                      |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| [ARetirementCalculatorPylabLabels](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/ARetirementCalculatorPylabLabels) | Retirement calculator with Pylab labels.    |
+| [BiSectionSearchNumberGuessMIT](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/BiSectionSearchNumberGuessMIT) | Bisection search number guessing game.      |
+| [DictionaryLyricsCount](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/DictionaryLyricsCount) | Counts lyrics using a dictionary.           |
+| [FinalProblem3](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/FinalProblem3) | Final problem set 3 implementation.         |
+| [FinalProblem4](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/FinalProblem4) | Final problem set 4 implementation.         |
+| [FinalProblem5](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/FinalProblem5) | Final problem set 5 implementation.         |
+| [FinalProblem6](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/FinalProblem6) | Final problem set 6 implementation.         |
+| [FinalProblem7](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/FinalProblem7) | Final problem set 7 implementation.         |
+| [MITMidtermP3](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/MITMidtermP3) | Midterm problem set 3 implementation.       |
+| [MITMidtermP4DeepReverse](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/MITMidtermP4DeepReverse) | Midterm problem set 4 with deep reverse.   |
+| [MITMidtermP5KeysWithValue](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/MITMidtermP5KeysWithValue) | Midterm problem set 5 with keys and values. |
+| [MITMidtermP6GCD](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/MITMidtermP6GCD) | Midterm problem set 6 for GCD calculation.  |
+| [MITMidtermP7GeneralPoly](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/MITMidtermP7GeneralPoly) | Midterm problem set 7 for general polynomials. |
+| [PSET1BobCount](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET1BobCount) | Problem set 1 for counting occurrences of "Bob". |
+| [PSET1LongestStringCount](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET1LongestStringCount) | Problem set 1 for finding the longest string. |
+| [PSET1VowelCount](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET1VowelCount) | Problem set 1 for counting vowels in a string. |
+| [PSET2BisectionSearchPaidOff](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET2BisectionSearchPaidOff) | Problem set 2 for bisection search.         |
+| [PSET2InterestRateCalculator](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET2InterestRateCalculator) | Interest rate calculator for problem set 2. |
+| [PSET2MinimumPaymentFullPaidOff](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET2MinimumPaymentFullPaidOff) | Minimum payment calculator for problem set 2. |
+| [PSET3IsTheWordGuess](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET3IsTheWordGuess) | Word guessing game for problem set 3.       |
+| [PSET3PrintOutAllLetters](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET3PrintOutAllLetters) | Prints out all letters for problem set 3.   |
+| [PSET3PrintOutUserGuess](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET3PrintOutUserGuess) | Prints out user guesses for problem set 3.  |
+| [PSET3TheGameHangman](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET3TheGameHangman) | Hangman game implementation for problem set 3. |
+| [PSET4.1CaeserCipherShift](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.1CaeserCipherShift) | Caesar cipher shift implementation for problem set 4.1. |
+| [PSET4.1GetWordScore](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.1GetWordScore) | Word score calculator for problem set 4.1.   |
+| [PSET4.2DealingWithHands](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.2DealingWithHands) | Dealing with hands for problem set 4.2.     |
+| [PSET4.3ValidWords](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.3ValidWords) | Validating words for problem set 4.3.       |
+| [PSET4.4CalcHandleLength](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.4CalcHandleLength) | Calculating handle length for problem set 4.4. |
+| [PSET4.5PlayingAHand](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.5PlayingAHand) | Playing a hand for problem set 4.5.         |
+| [PSET4.6PlayingAGame](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.6PlayingAGame) | Playing a game for problem set 4.6.         |
+| [PSET4.7UvsComputer](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4.7UvsComputer) | User vs computer game for problem set 4.7.  |
+| [PSET4WordGameps4a.py](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4WordGameps4a.py) | Word game implementation for problem set 4a. |
+| [PSET4WordGameps4b.py](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4WordGameps4b.py) | Word game implementation for problem set 4b. |
+| [PSET4WordGametest_ps4a.py](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4WordGametest%5Fps4a.py) | Test for word game implementation for problem set 4a. |
+| [PSET4words.txt](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET4words.txt) | Word list for problem set 4.                 |
+| [PSET5.1CipherShiftDictionary](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET5.1CipherShiftDictionary) | Cipher shift dictionary for problem set 5.1. |
+| [PSET5.2PlainTextMessage](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET5.2PlainTextMessage) | Plain text message for problem set 5.2.      |
+| [PSET5.3CipherTextMsg](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET5.3CipherTextMsg) | Cipher text message for problem set 5.3.      |
+| [PSET5.4StoryCode](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/PSET5.4StoryCode) | Story code implementation for problem set 5.4. |
+| [README.md](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/README.md) | The README file for the repository.           |
+| [W2GCDIter](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W2GCDIter) | GCD iterative implementation.                  |
+| [W2GCDRecur](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W2GCDRecur) | GCD recursive implementation.                  |
+| [W2PalindromeIsInBisectionSrch](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W2PalindromeIsInBisectionSrch) | Palindrome check using bisection search.      |
+| [W2PolySum](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W2PolySum) | Polynomial summation implementation.          |
+| [W2PowerIteration](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W2PowerIteration) | Power iteration implementation.                |
+| [W2PowerRecursion](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W2PowerRecursion) | Power recursion implementation.                |
+| [W3ApplyToEach1](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W3ApplyToEach1) | Apply to each example 1.                      |
+| [W3ApplyToEach2](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W3ApplyToEach2) | Apply to each example 2.                      |
+| [W3ApplyToEach3](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W3ApplyToEach3) | Apply to each example 3.                      |
+| [W3BiggestDict](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W3BiggestDict) | Finding the biggest dictionary.                |
+| [W3DictionaryHowMany](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W3DictionaryHowMany) | Counting items in a dictionary.               |
+| [W4OpenFileExampleMIT](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W4OpenFileExampleMIT) | Example of opening a file in MIT.             |
+| [W4SimpleDivideException](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W4SimpleDivideException) | Exception handling for division.               |
+| [W5CoordinateAddMethod](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W5CoordinateAddMethod) | Adding coordinates method.                     |
+| [W5FibonacciGeneratorYield](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W5FibonacciGeneratorYield) | Fibonacci generator using yield.              |
+| [W5MethodIntSet](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W5MethodIntSet) | Integer set method implementation.             |
+| [W5PrimeNumberGeneratorYield](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W5PrimeNumberGeneratorYield) | Prime number generator using yield.           |
+| [W5__str__hand](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/W5%5F%5Fstr%5F%5Fhand) | String representation for hand class.         |
+| [ps4a.py](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/ps4a.py) | Problem set 4a implementation.                |
+| [ps4b.py](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/ps4b.py) | Problem set 4b implementation.                |
+| [test_ps4a.py](https://github.com/evilusean/MIT-6.001x-edx-Introduction-to-Computer-Science-using-Python/blob/main/test%5Fps4a.py) | Test for problem set 4a implementation.       |
+
+
+## 20April2021 - FreeCodeCamp : Python For Beginners - https://github.com/evilusean/FreeCodeCampPythonBeginners
 This repository contains various Python programs. Below is a list of the programs along with their links.
 
 | Program Name                                                                 | Summary                                      |
@@ -112,7 +180,7 @@ This repository contains various Python programs. Below is a list of the program
 | [test app.py](https://github.com/evilusean/FreeCodeCampPythonBeginners/blob/main/test%20app.py) | A test application.                          |
 
 
-## April2021 - Python 4 Everyone : https://github.com/evilusean/Python4Everyone
+## April2021 - MIT/Coursera : Python 4 Everyone : https://github.com/evilusean/Python4Everyone
 This repository contains various Python programs. Below is a list of the programs along with their links. - My first course 'learning to code' -
 
 | Program Name                                                                 | Summary                                      |
