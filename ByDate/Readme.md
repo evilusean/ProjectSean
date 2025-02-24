@@ -231,7 +231,7 @@ It's my first day, I should of centralized these, but my first 10 commits are re
 | [bs4BeautifulSoup](https://github.com/evilusean/bs4BeautifulSoup)              | 1       |
 | [Python4Everyone](https://github.com/evilusean/Python4Everyone)                | 1       |
 
-
+## Before I started 'Learning to Code' :
 CompSci Class HS = 2006ish?</br>
 WoW AFK Farm AV Bot/AutoClicker = 2004ish? </br>
 Neopets HTML Web Storefront - I was slinging NFT's before it was cool, and then not cool again = 2003ish?</br>
