@@ -150,4 +150,4 @@ This repository contains various Python programs. Below is a list of the program
 
 CompSci Class HS = 2006ish?</br>
 WoW AFK Farm AV Bot/AutoClicker = 2004ish? </br>
-Neopets = 2003ish?</br>
+Neopets HTML Web Storefront - I was slinging NFT's before it was cool, and then not cool = 2003ish?</br>
