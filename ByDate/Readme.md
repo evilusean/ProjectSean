@@ -215,6 +215,22 @@ This repository contains various Python programs. Below is a list of the program
 | [main.py](https://github.com/evilusean/Python4Everyone/blob/main/main.py) | Main entry point for the application.         |
 | [url lib.py](https://github.com/evilusean/Python4Everyone/blob/main/url%20lib.py) | Library for URL handling.                     |
 
+This repository contains various projects related to Python for Everyone. Below is a list of the repositories along with their commit counts. - 
+It's my first day, I should of centralized these, but my first 10 commits are really just creating repos for fluff, some webscraping, playing around with maps, all in python
+
+| Repository Name                                                                 | Commits |
+|----------------------------------------------------------------------------------|---------|
+| [ExampleCodePY4E](https://github.com/evilusean/ExampleCodePY4E)                | 3       |
+| [FreeCodeCampPythonBeginners](https://github.com/evilusean/FreeCodeCampPythonBeginners) | 3       |
+| [geodataPY4E](https://github.com/evilusean/geodataPY4E)                        | 1       |
+| [gmanePY4E](https://github.com/evilusean/gmanePY4E)                            | 1       |
+| [opengeoPY4E](https://github.com/evilusean/opengeoPY4E)                        | 1       |
+| [pagerankPY4E](https://github.com/evilusean/pagerankPY4E)                      | 1       |
+| [RosterPY4E](https://github.com/evilusean/RosterPY4E)                          | 1       |
+| [tracksPY4E](https://github.com/evilusean/tracksPY4E)                          | 1       |
+| [bs4BeautifulSoup](https://github.com/evilusean/bs4BeautifulSoup)              | 1       |
+| [Python4Everyone](https://github.com/evilusean/Python4Everyone)                | 1       |
+
 
 CompSci Class HS = 2006ish?</br>
 WoW AFK Farm AV Bot/AutoClicker = 2004ish? </br>
