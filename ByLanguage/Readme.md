@@ -4,6 +4,10 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| Sep 25, 2022 | FractalSierplinskiTriangle | Created a script for generating the Sierpiński triangle fractal. |
+| Sep 24, 2022 | TexasExportsTreeMapScript | Created a script for visualizing Texas exports using a tree map. |
+| Sep 22, 2022 | EscapingCanadaChecklist(s) | Created a checklist for escaping Canada, organized in a directory. |
+| Sep 17, 2022 | WGetWebsiteDownloadPythonScript | Created a Python script for downloading websites using WGet. |
 | **Jan 30, 2022**    | [Create MontyPythonSpam](https://github.com/evilusean/Pysean/commit/dac8a9a) | Created a script related to Monty Python's Spam. |
 | **Dec 20, 2021**    | [Create TrashGang.bat](https://github.com/evilusean/Pysean/commit/f751485)   | Created a batch file for TrashGang functionality. |
 | **Dec 18, 2021**    | [Create ScrollGang.bat](https://github.com/evilusean/Pysean/commit/b4fda38) | Created a new batch file for ScrollGang.    |
