@@ -1,66 +1,11 @@
 All Projects Sorted by reverse chronological date</br>
+
 ## October2022 - Google IT Support Professional - https://github.com/evilusean/CourseraGoogleFCC/tree/main/IT-Support-Professional :
-2. 1Technical Support Fundamentals
-| 1AND-Gate-.png | Image of an AND gate. |
-| 1Circuit-Truth-table.png | Truth table for logic circuits. |
-| 1Circuit-drawing.png | Diagram of a circuit. |
-| 1LogicGatesReading | Reading material on logic gates. |
-| 1NAND-Gate.png | Image of a NAND gate. |
-| 1NOT-Gate-copy.png | Image of a NOT gate. |
-| 1OR-Gate.png | Image of an OR gate. |
-| 1XNOR-Gate.png | Image of an XNOR gate. |
-| 1XOR-Gate-.png | Image of an XOR gate. |
-| 2CPUOverclocking | Information on CPU overclocking. |
-| 2Communication-Connectors.png | Image of communication connectors. |
-| 2DataStorage | Overview of data storage methods. |
-| 2MobileDisplayTypes | Information on mobile display types. |
-| 2PowerSupplies | Overview of power supplies. |
-| 2ScriptingSolutionsSummary | Summary of scripting solutions. |
-| 2USB-Types.png | Image of USB types. |
-| 3BootMethods | Overview of boot methods. |
-| 3Windows 10 Vs 11 | Comparison between Windows 10 and 11. |
-| 6ElevatorPitch | Guidelines for creating an elevator pitch. |
-| 6Resume-Example-1_Google-IT-Support.pdf | Example resume for Google IT Support. |
-| 6Resume-Example-2_Google-IT-Support.pdf | Another example resume. |
-| 6Resume-Example-3_Google-IT-Support.pdf | Third example resume. |
-| 6ResumeTips | Tips for writing a resume. |
-| General Notes | General notes related to the course. |
-| Links\Resources | Links and resources for further reading. |
-| Syllabus | Course syllabus. |
-4. 2The Bits and Bytes of Computer Networking
-| 1EthernetCableTechTwistedPairsCrossOver | Information on Ethernet cable technology. |
-| 1EthernetFrameDataPacket.jpg | Image of an Ethernet frame data packet. |
-| 1TCP IP 5 Layer Model.jpg | Image of the TCP/IP 5-layer model. |
-| 2IP Datagram Header.jpg | Image of an IP datagram header. |
-| 2IP Network Classes.jpg | Overview of IP network classes. |
-| 3CommonPorts.pdf | Common ports used in networking. |
-| 3SystemVsEphemeralPorts | Comparison of system and ephemeral ports. |
-| 3TCP Header.jpg | Image of a TCP header. |
-| 4AddressExhaustion | Information on address exhaustion. |
-| 4IPv4-Address-Exhaustion--C2M4-.png | Image related to IPv4 address exhaustion. |
-| 5Alphabet-Soup-tableWIFI.png | Image of WiFi standards. |
-| 5BroadBand | Overview of broadband technologies. |
-6. 3Operating Systems and You: Becoming a Power User
-| 1Command-Line-Commands | Overview of essential command-line commands. |
-| 1Linux-File-System-Structure | Explanation of the Linux file system structure. |
-| 1Operating-System-Functions | Functions of operating systems. |
-| 2File-Management | Techniques for managing files in an OS. |
-| 2Linux-File-Management | File management in Linux. |
-| 3Windows-File-Management | File management in Windows. |
-| 4System-Administration | Overview of system administration tasks. |
-| 5Troubleshooting | Techniques for troubleshooting operating systems. |
-7. 4System Administration and IT Infrastructure
-| 1IT-Infrastructure | Overview of IT infrastructure components. |
-| 2Networking | Basics of networking in IT infrastructure. |
-| 3Virtualization | Introduction to virtualization technologies. |
-| 4Cloud-Computing | Overview of cloud computing concepts. |
-| 5Backup-and-Recovery | Techniques for backup and recovery in IT. |
-8. 5IT Security
-| 1Security-Fundamentals | Overview of IT security fundamentals. |
-| 2Network-Security | Basics of network security practices. |
-| 3Data-Security | Techniques for securing data. |
-| 4Incident-Response | Overview of incident response strategies. |
-| 5Security-Policies | Importance of security policies in IT. |
+1Technical Support Fundamentals</br>
+2The Bits and Bytes of Computer Networking</br>
+3Operating Systems and You: Becoming a Power User</br>
+4System Administration and IT Infrastructure</br>
+5IT Security</br>
 ## September2022 - Google Project Management - https://github.com/evilusean/CourseraGoogleFCC/tree/main/ProjectManagement :
 ## July2022 - IBM-Boston-LargeDataSet-CapstoneProject-Jupyter-Python - https://github.com/evilusean/IBM4BostonHousingDataAnalysisProject :
 ## June2022 - IBM-Python-Webscraping-Stocks-Project-For-Data-Science - https://github.com/evilusean/IBMPythonWebscrapingStocksProjectForDataScience :
