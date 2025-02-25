@@ -1,6 +1,6 @@
 All Projects Sorted by reverse chronological date</br>
 
-## October2021 - Hearthstone Python Bot - https://github.com/evilusean/Hearthstone-Python-Click : 
+# October2021 - Hearthstone Python Bot - https://github.com/evilusean/Hearthstone-Python-Click : 
 Plays the game 'Hearthstone: Battlegrounds' for me and collects in game currency while I sleep. Used daily for years. 
 
 ## October2021 - IBM-Capstone-Project - https://github.com/evilusean/IBM-Capstone-Final-Project :
