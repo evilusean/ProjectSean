@@ -2,7 +2,6 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 
 # Python :
 ## PySean :
-# Pysean Repository Commits
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
 | **Jan 30, 2022**    | [Create MontyPythonSpam](https://github.com/evilusean/Pysean/commit/dac8a9a) | Created a script related to Monty Python's Spam. |
@@ -28,3 +27,4 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 | **Nov 11, 2021**    | [Create WriteFile](https://github.com/evilusean/Pysean/commit/3e5b65d)      | Implemented a function to write data to a file. |
 | **Nov 11, 2021**    | [Create OpenFile](https://github.com/evilusean/Pysean/commit/f6ff318)       | Implemented a function to open and read from a file. |
 
+## MachineLearning - https://github.com/evilusean/MachineLearning :
