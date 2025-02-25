@@ -1,5 +1,6 @@
 All Projects Sorted by reverse chronological date</br>
-
+## October2022 - 
+## September2022 - Google Project Management - https://github.com/evilusean/CourseraGoogleFCC/tree/main/ProjectManagement :
 ## July2022 - IBM-Boston-LargeDataSet-CapstoneProject-Jupyter-Python - https://github.com/evilusean/IBM4BostonHousingDataAnalysisProject :
 ## June2022 - IBM-Python-Webscraping-Stocks-Project-For-Data-Science - https://github.com/evilusean/IBMPythonWebscrapingStocksProjectForDataScience :
 This repository contains various projects and assignments related to web scraping financial data using Python. Below is a summary of the key components organized by file:
