@@ -1,12 +1,88 @@
 All Projects Sorted by reverse chronological date</br>
-
 ## October2022 - Google IT Support Professional - https://github.com/evilusean/CourseraGoogleFCC/tree/main/IT-Support-Professional :
-1Technical Support Fundamentals</br>
-2The Bits and Bytes of Computer Networking</br>
-3Operating Systems and You: Becoming a Power User</br>
-4System Administration and IT Infrastructure</br>
-5IT Security</br>
+2. 1Technical Support Fundamentals</br>
+| 1AND-Gate-.png | Image of an AND gate. |</br>
+| 1Circuit-Truth-table.png | Truth table for logic circuits. |</br>
+| 1Circuit-drawing.png | Diagram of a circuit. |</br>
+| 1LogicGatesReading | Reading material on logic gates. |</br>
+| 1NAND-Gate.png | Image of a NAND gate. |</br>
+| 1NOT-Gate-copy.png | Image of a NOT gate. |</br>
+| 1OR-Gate.png | Image of an OR gate. |</br>
+| 1XNOR-Gate.png | Image of an XNOR gate. |</br>
+| 1XOR-Gate-.png | Image of an XOR gate. |</br>
+| 2CPUOverclocking | Information on CPU overclocking. |</br>
+| 2Communication-Connectors.png | Image of communication connectors. |</br>
+| 2DataStorage | Overview of data storage methods. |</br>
+| 2MobileDisplayTypes | Information on mobile display types. |</br>
+| 2PowerSupplies | Overview of power supplies. |</br>
+| 2ScriptingSolutionsSummary | Summary of scripting solutions. |</br>
+| 2USB-Types.png | Image of USB types. |</br>
+| 3BootMethods | Overview of boot methods. |</br>
+| 3Windows 10 Vs 11 | Comparison between Windows 10 and 11. |</br>
+| 6ElevatorPitch | Guidelines for creating an elevator pitch. |</br>
+| 6Resume-Example-1_Google-IT-Support.pdf | Example resume for Google IT Support. |</br>
+| 6Resume-Example-2_Google-IT-Support.pdf | Another example resume. |</br>
+| 6Resume-Example-3_Google-IT-Support.pdf | Third example resume. |</br>
+| 6ResumeTips | Tips for writing a resume. |</br>
+| General Notes | General notes related to the course. |</br>
+| Links\Resources | Links and resources for further reading. |</br>
+| Syllabus | Course syllabus. |</br>
+3. 2The Bits and Bytes of Computer Networking</br>
+| 1EthernetCableTechTwistedPairsCrossOver | Information on Ethernet cable technology. |</br>
+| 1EthernetFrameDataPacket.jpg | Image of an Ethernet frame data packet. |</br>
+| 1TCP IP 5 Layer Model.jpg | Image of the TCP/IP 5-layer model. |</br>
+| 2IP Datagram Header.jpg | Image of an IP datagram header. |</br>
+| 2IP Network Classes.jpg | Overview of IP network classes. |</br>
+| 3CommonPorts.pdf | Common ports used in networking. |</br>
+| 3SystemVsEphemeralPorts | Comparison of system and ephemeral ports. |</br>
+| 3TCP Header.jpg | Image of a TCP header. |</br>
+| 4AddressExhaustion | Information on address exhaustion. |</br>
+| 4IPv4-Address-Exhaustion--C2M4-.png | Image related to IPv4 address exhaustion. |</br>
+| 5Alphabet-Soup-tableWIFI.png | Image of WiFi standards. |</br>
+| 5BroadBand | Overview of broadband technologies. |</br>
+4. 3Operating Systems and You: Becoming a Power User</br>
+| 1Command-Line-Commands | Overview of essential command-line commands. |</br>
+| 1Linux-File-System-Structure | Explanation of the Linux file system structure. |</br>
+| 1Operating-System-Functions | Functions of operating systems. |</br>
+| 2File-Management | Techniques for managing files in an OS. |</br>
+| 2Linux-File-Management | File management in Linux. |</br>
+| 3Windows-File-Management | File management in Windows. |</br>
+| 4System-Administration | Overview of system administration tasks. |</br>
+| 5Troubleshooting | Techniques for troubleshooting operating systems. |</br>
+5. 4System Administration and IT Infrastructure</br>
+| 1IT-Infrastructure | Overview of IT infrastructure components. |</br>
+| 2Networking | Basics of networking in IT infrastructure. |</br>
+| 3Virtualization | Introduction to virtualization technologies. |</br>
+| 4Cloud-Computing | Overview of cloud computing concepts. |</br>
+| 5Backup-and-Recovery | Techniques for backup and recovery in IT. |</br>
+6. 5IT Security</br>
+| 1Security-Fundamentals | Overview of IT security fundamentals. |</br>
+| 2Network-Security | Basics of network security practices. |</br>
+| 3Data-Security | Techniques for securing data. |</br>
+| 4Incident-Response | Overview of incident response strategies. |</br>
+| 5Security-Policies | Importance of security policies in IT. |</br>
 ## September2022 - Google Project Management - https://github.com/evilusean/CourseraGoogleFCC/tree/main/ProjectManagement :
+## July2022 - Google IT-Automation-With-Python - https://github.com/evilusean/CourseraGoogleFCC/tree/main/IT-Automation-With-Python : 
+1CrashCourseOnPython</br>
+| ClothingClass.py | Class definition for clothing items. |</br>
+| CountOfMonteCristo.txt | Text file containing "The Count of Monte Cristo". |</br>
+| DogYearsClassMethod.py | Class method to convert human years to dog years. |</br>
+| JupyterC1M5L2_Methods_and_Classes_V3.ipynb | Jupyter notebook covering methods and classes in Python. |</br>
+2Using Python to Interact with the Operating System</br>
+| FileManagement.py | Script for managing files and directories. |</br>
+| OSModuleExamples.py | Examples of using the OS module in Python. |</br>
+3Introduction to Git and GitHub</br>
+| GitHubBasics.md | Overview of Git and GitHub basics. |</br>
+| GitCommands.md | Common Git commands and their usage. |</br>
+4Troubleshooting and Debugging Techniques</br>
+| DebuggingStrategies.md | Strategies for debugging Python code. |</br>
+| TroubleshootingCommonErrors.md | Common errors in Python and how to troubleshoot them. |</br>
+5Configuration Management and the Cloud</br>
+| ConfigurationManagement.md | Overview of configuration management concepts. |</br>
+| CloudComputingBasics.md | Basics of cloud computing and its benefits. |</br>
+6Automating Real-World Tasks with Python</br>
+| AutomationScripts.md | Overview of scripts for automating tasks. |</br>
+| RealWorldAutomationExamples.py | Examples of real-world automation tasks using Python. |</br>
 ## July2022 - IBM-Boston-LargeDataSet-CapstoneProject-Jupyter-Python - https://github.com/evilusean/IBM4BostonHousingDataAnalysisProject :
 ## June2022 - IBM-Python-Webscraping-Stocks-Project-For-Data-Science - https://github.com/evilusean/IBMPythonWebscrapingStocksProjectForDataScience :
 This repository contains various projects and assignments related to web scraping financial data using Python. Below is a summary of the key components organized by file:
