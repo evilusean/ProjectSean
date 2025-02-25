@@ -1,6 +1,23 @@
 All Projects Sorted by reverse chronological date</br>
 
-## 
+## 29September2021 - IBM-Analyzing Data with Python - https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython :
+This repository contains various projects related to analyzing data with Python. Below is a list of the files along with their links.
+
+| Program Name                                                                 | Summary                                      |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| [Cleaned Data Cars](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Cleaned%20Data%20Cars) | Cleaned dataset for car data analysis.      |
+| [Final Project.ipynb](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Final%20Project.ipynb) | Jupyter notebook for the final project.     |
+| [GridTest SeekingALpha parameters](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/GridTest%20SeekingALpha%20parameters) | Grid test parameters for Seeking Alpha.     |
+| [IBM Python Final Project 28-09-2021](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/IBM%20Python%20Final%20Project%2028-09-2021) | Final project submission from IBM course.   |
+| [Lab 1 Importing Data Sets IBMPython](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Lab%201%20Importing%20Data%20Sets%20IBMPython) | Lab exercise for importing data sets.       |
+| [Lab 2 Data Wrangling IBMPython](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Lab%202%20Data%20Wrangling%20IBMPython) | Lab exercise for data wrangling.            |
+| [Lab 3 Statistics Plotting ANOVA](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Lab%203%20Statistics%20Plotting%20ANOVA) | Lab exercise for ANOVA statistics plotting.  |
+| [Lab 4 Model Development](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Lab%204%20Model%20Development) | Lab exercise for model development.          |
+| [Lab 5 Model Evaluation and Refinement](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Lab%205%20Model%20Evaluation%20and%20Refinement) | Lab exercise for model evaluation and refinement. |
+| [Python DB API](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/Python%20DB%20API) | Implementation of Python DB API.            |
+| [RSquareTest](https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython/blob/main/RSquareTest) | R-squared test implementation.               |
+
+
 ## 26October2021 - MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science - https://github.com/evilusean/MIT-6.002x-edx-Introduction-to-Computational-Thinking-and-Data-Science
 This repository contains various programs related to computational thinking and data science. Below is a list of the programs along with their links.
 
