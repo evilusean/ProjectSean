@@ -1,5 +1,8 @@
 All Projects Sorted by reverse chronological date</br>
 
+## October2021 - Hearthstone Python Bot - https://github.com/evilusean/Hearthstone-Python-Click : 
+Plays the game 'Hearthstone: Battlegrounds' for me and collects in game currency while I sleep. Used daily for years. 
+
 ## September2021 - IBM-Visualizing-Data-Python - https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python :
 This repository contains various projects related to visualizing data with Python. Below is a list of the files along with their links.
 
