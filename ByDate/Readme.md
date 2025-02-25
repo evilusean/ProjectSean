@@ -1,5 +1,27 @@
 All Projects Sorted by reverse chronological date</br>
 
+## June2022 - IBMPythonWebscrapingStocksProjectForDataScience - https://github.com/evilusean/IBMPythonWebscrapingStocksProjectForDataScience :
+This repository contains various projects and assignments related to web scraping financial data using Python. Below is a summary of the key components organized by file:
+| Program Name | Summary |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| Final Assignment Webscraping.ipynb | Jupyter Notebook for the final assignment on web scraping. |
+| Final AssignmentNotebook.ipynb | Another Jupyter Notebook for the final assignment. |
+| FinalAssignmentNoteBookScript2.py | Python script related to the final assignment notebook. |
+| FinalAssignmentTeslaGamestopScript | Script for scraping data related to Tesla and GameStop. |
+| FinalWebscrapingNetflix&StonksScript.py | Script for scraping data from Netflix and other stocks. |
+| Final_Assignment Library.ipynb | Jupyter Notebook for the final assignment library. |
+| Final_Assignment LibraryScriptAAPLStonksChart | Script for generating charts for Apple stock data. |
+| GameStopRevenueChart.jpg | Chart visualizing GameStop's revenue. |
+| GamestopPriceChart.jpg | Chart visualizing GameStop's stock price. |
+| IBMWebscrapingJupyterNotebook.ipynb | Jupyter Notebook for web scraping IBM stock data. |
+| Labs | Folder containing additional lab exercises. |
+| MakeGraphFunction.jpg | Image of a function used for graphing data. |
+| README.md | Overview and instructions for the project. |
+| TeslaPriceChart.jpg | Chart visualizing Tesla's stock price. |
+| TeslaRevenueChart.jpg | Chart visualizing Tesla's revenue. |
+| WebScrapingReviewPopulationDensityScript | Script for reviewing population density data through web scraping. |
+| WebScraping_Review_Lab.ipynb | Jupyter Notebook for reviewing web scraping techniques. |
+
 ## May2022 - Coursera-IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization - https://github.com/evilusean/Coursera-IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization :
 | Program Name | Summary |
 |-------------------------------------------------------------------------------|----------------------------------------------|
