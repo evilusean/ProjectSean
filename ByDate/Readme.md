@@ -3,6 +3,7 @@ All Projects Sorted by reverse chronological date</br>
 1. IT-Support-Professional
 | README.md | Overview of the Google IT Support Professional Certificate program. |
 2. 1Technical Support Fundamentals
+|------------------|--------------------|
 | 1AND-Gate-.png | Image of an AND gate. |
 | 1Circuit-Truth-table.png | Truth table for logic circuits. |
 | 1Circuit-drawing.png | Diagram of a circuit. |
@@ -29,7 +30,8 @@ All Projects Sorted by reverse chronological date</br>
 | General Notes | General notes related to the course. |
 | Links\Resources | Links and resources for further reading. |
 | Syllabus | Course syllabus. |
-3. 2The Bits and Bytes of Computer Networking
+4. 2The Bits and Bytes of Computer Networking
+|------------------|--------------------|
 | 1EthernetCableTechTwistedPairsCrossOver | Information on Ethernet cable technology. |
 | 1EthernetFrameDataPacket.jpg | Image of an Ethernet frame data packet. |
 | 1TCP IP 5 Layer Model.jpg | Image of the TCP/IP 5-layer model. |
@@ -42,7 +44,7 @@ All Projects Sorted by reverse chronological date</br>
 | 4IPv4-Address-Exhaustion--C2M4-.png | Image related to IPv4 address exhaustion. |
 | 5Alphabet-Soup-tableWIFI.png | Image of WiFi standards. |
 | 5BroadBand | Overview of broadband technologies. |
-4. 3Operating Systems and You: Becoming a Power User
+6. 3Operating Systems and You: Becoming a Power User
 | 1Command-Line-Commands | Overview of essential command-line commands. |
 | 1Linux-File-System-Structure | Explanation of the Linux file system structure. |
 | 1Operating-System-Functions | Functions of operating systems. |
@@ -51,13 +53,13 @@ All Projects Sorted by reverse chronological date</br>
 | 3Windows-File-Management | File management in Windows. |
 | 4System-Administration | Overview of system administration tasks. |
 | 5Troubleshooting | Techniques for troubleshooting operating systems. |
-5. 4System Administration and IT Infrastructure
+7. 4System Administration and IT Infrastructure
 | 1IT-Infrastructure | Overview of IT infrastructure components. |
 | 2Networking | Basics of networking in IT infrastructure. |
 | 3Virtualization | Introduction to virtualization technologies. |
 | 4Cloud-Computing | Overview of cloud computing concepts. |
 | 5Backup-and-Recovery | Techniques for backup and recovery in IT. |
-6. 5IT Security
+8. 5IT Security
 | 1Security-Fundamentals | Overview of IT security fundamentals. |
 | 2Network-Security | Basics of network security practices. |
 | 3Data-Security | Techniques for securing data. |
