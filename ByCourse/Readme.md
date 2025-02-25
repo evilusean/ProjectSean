@@ -1,5 +1,21 @@
 Reverse Chronological Sorted By Course :
 
+## October2021 - IBM-Capstone-Project - https://github.com/evilusean/IBM-Capstone-Final-Project :
+This repository contains various labs and projects related to the IBM Capstone Final Project. Below is a list of the files along with their links.
+
+| Program Name                                                                 | Summary                                      |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| [Lab 1 Python HTTP Requests and API](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%201%20Python%20HTTP%20Requests%20and%20API) | Introduction to Python HTTP requests and APIs. |
+| [Lab 2 Collecting Data Using APIs Astronauts ISS, JSON Job Search XML Workbook](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%202%20Collecting%20Data%20Using%20APIs%20Astronauts%20ISS%2C%20JSON%20Job%20Search%20XML%20Workbook) | Collecting data using various APIs.          |
+| [Lab 3 Web Scraping Beautiful Soup Review](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%203%20Web%20Scraping%20Beautiful%20Soup%20Review) | Web scraping using Beautiful Soup.           |
+| [Lab 4 WebScraping](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%204%20WebScraping) | Additional web scraping techniques.          |
+| [Lab 5 Stack Overflow Dataset](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%205%20Stack%20Overflow%20Dataset) | Analysis of the Stack Overflow dataset.     |
+| [Lab 6 Data Wrangling](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%206%20Data%20Wrangling) | Data wrangling techniques and practices.    |
+| [Lab 7 Finding Duplicates](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%207%20Finding%20Duplicates) | Techniques for finding duplicate entries.    |
+| [Lab 8 Removing Duplicates](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%208%20Removing%20Duplicates) | Methods for removing duplicates from datasets. |
+| [Lab 11 Data Distribution, Correlation, Outliers](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%2011%20Data%20Distribution%2C%20CorrelationOutliers%2C) | Analyzing data distribution and correlation. |
+| [Lab 12 SQL Box Scatter Bubble Plots Pie Stacked Bubble Line Bar Charts](https://github.com/evilusean/IBM-Capstone-Final-Project/blob/main/Lab%2012%20SQL%20Box%20Scatter%20Bubble%20Plots%20Pie%20Stacked%20Bubble%20Line%20Bar%20Charts) | Visualizing data using various chart types.  |
+
 ## September2021 - IBM-Visualizing-Data-Python - https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python :
 This repository contains various projects related to visualizing data with Python. Below is a list of the files along with their links.
 
