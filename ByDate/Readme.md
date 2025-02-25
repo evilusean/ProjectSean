@@ -1,5 +1,24 @@
 All Projects Sorted by reverse chronological date</br>
 
+## September2021 - IBM-Visualizing-Data-Python - https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python :
+This repository contains various projects related to visualizing data with Python. Below is a list of the files along with their links.
+
+| Program Name                                                                 | Summary                                      |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| [Final Project Visualizing Data Python](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Final%20Project%20Visualizing%20Data%20Python) | Final project for visualizing data in Python. |
+| [Lab 1 Intro to Matplotlib and Line Plots](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%201%20Intro%20to%20Matplotlib%20and%20Line%20Plots) | Introduction to Matplotlib and creating line plots. |
+| [Lab 10 Jupyter Dash-board input-input-callback](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%2010%20Jupyter%20Dash-board%20input-input-callback) | Jupyter dashboard with input and callback functionality. |
+| [Lab 11 Flight Delays Dashboard](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%2011%20Flight%20Delays%20Dashboard) | Dashboard for visualizing flight delays.    |
+| [Lab 2 Basic Visualization Tools Line-Area-Histogram-Hex-Bar-Annotate](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%202%20Basic%20Visualization%20Tools%20Line-Area-Histogram-Hex-Bar-Annotate) | Basic visualization tools including line, area, histogram, and more. |
+| [Lab 3 Specialized Visualization Tools Pie-Box-Scatter-Bubble Plots](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%203%20Specialized%20Visualization%20Tools%20Pie-Box-Scatter-Bubble%20Plots) | Specialized visualization tools for pie, box, scatter, and bubble plots. |
+| [Lab 4 Advanced Tools Waffle Charts-WordCloud Functions-Seaborn Regression Plot](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%204%20Advanced%20Tools%20Waffle%20Charts-WordCloud%20Functions-Seaborn%20Regression%20Plot) | Advanced visualization tools including waffle charts and regression plots. |
+| [Lab 5 Maps-Folium-Markers](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%205%20Maps-Folium-Markers) | Creating maps using Folium and markers.    |
+| [Lab 6 Plotly Line-Scatter-Bar-Bubble-Histogram-Pie-Sunburst](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%206%20Plotly%20Line-Scatter-Bar-Bubble-Histogram-Pie-Sunburst) | Various Plotly visualizations including line, scatter, bar, and more. |
+| [Lab 7 Dashboard-Dash Basics](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%207%20Dashboard-Dash%20Basics) | Basics of creating dashboards with Dash.   |
+| [Lab 8 Dash-Jupyter Dashboard](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%208%20Dash-Jupyter%20Dashboard) | Integrating Dash with Jupyter for dashboards. |
+| [Lab 9 Dash-Dashboard Interactivity Inputs-Callbacks](https://github.com/evilusean/Edx-IBM-Visualizing-Data-Python/blob/main/Lab%209%20Dash-Dashboard%20Interactivity%20Inputs-Callbacks) | Adding interactivity to Dash dashboards with inputs and callbacks. |
+
+
 ## 29September2021 - IBM-Analyzing Data with Python - https://github.com/evilusean/Edx-IBM-AnalyzingDataWithPython :
 This repository contains various projects related to analyzing data with Python. Below is a list of the files along with their links.
 
