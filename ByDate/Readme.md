@@ -1,5 +1,14 @@
 All Projects Sorted by reverse chronological date</br>
 
+## May2022 - Coursera-IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization - https://github.com/evilusean/Coursera-IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization :
+| Program Name | Summary |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| Coursera IBM Data Science Fundamentals with Python and SQL Specialization | Repository containing various projects and assignments related to the IBM Data Science Fundamentals specialization. |
+| 1. Databases and SQL for Data Science with Python | Covers the fundamentals of databases and SQL, focusing on data retrieval and manipulation using Python. |
+| 2. Python for Data Science, AI & Development | Introduces Python programming for data science, including libraries and tools for data analysis and AI development. |
+| 4. Statistics for Data Science with Python | Focuses on statistical concepts and methods used in data science, with practical applications using Python. |
+| 5. Tools for Data Science | Discusses various tools and technologies used in data science, including Jupyter notebooks and data visualization tools. |
+
 ## January2022 - Coursera-Google-Data-Analyst - https://github.com/evilusean/CourseraGoogleDataAnalyst :
 | Program Name | Summary |
 |-------------------------------------------------------------------------------|----------------------------------------------|
