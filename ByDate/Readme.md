@@ -1,5 +1,23 @@
 All Projects Sorted by reverse chronological date</br>
 
+## Coursera-Google-Data-Analyst - https://github.com/evilusean/CourseraGoogleDataAnalyst :
+1. Analyze Data To Answer Questions
+Contains resources and materials for analyzing data to derive insights and answer specific questions.
+2. Ask Questions to Make Data-Driven Decisions
+Focuses on formulating questions that can be answered through data analysis, emphasizing the importance of asking the right questions.
+3. Data Analysis With R
+Introduces R programming for data analysis, including data manipulation, statistical analysis, and visualization using R.
+4. Foundations: Data, Data, Everywhere
+Covers the basics of data analytics, including understanding data types, data collection methods, and the importance of data in decision-making.
+5. Prepare For Data Exploration
+Involves techniques for preparing and cleaning data for analysis, including data wrangling and transformation processes.
+6. Process Data From Dirty To Clean
+Teaches how to clean and process raw data to make it suitable for analysis, addressing common data quality issues.
+7. Share Data Through the Art of Visualization
+Covers data visualization techniques, teaching how to effectively communicate data findings through visual representations.
+Capstone Project: Case Study 1
+A comprehensive project that allows learners to apply the skills and knowledge gained throughout the specialization to a real-world data analysis scenario.
+
 # October2021 - Hearthstone Python Bot - https://github.com/evilusean/Hearthstone-Python-Click : 
 Plays the game 'Hearthstone: Battlegrounds' for me and collects in game currency while I sleep. Used daily for years. 
 
