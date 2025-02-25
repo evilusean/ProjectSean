@@ -5,6 +5,7 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 # Pysean Repository Commits
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| **Jan 30, 2022**    | [Create MontyPythonSpam](https://github.com/evilusean/Pysean/commit/dac8a9a) | Created a script related to Monty Python's Spam. |
 | **Dec 20, 2021**    | [Create TrashGang.bat](https://github.com/evilusean/Pysean/commit/f751485)   | Created a batch file for TrashGang functionality. |
 | **Dec 18, 2021**    | [Create ScrollGang.bat](https://github.com/evilusean/Pysean/commit/b4fda38) | Created a new batch file for ScrollGang.    |
 | **Dec 18, 2021**    | [Create IdleGlance.bat](https://github.com/evilusean/Pysean/commit/d8ccabd) | Created a batch file for IdleGlance.        |
