@@ -1,5 +1,16 @@
 All Projects Sorted by reverse chronological date</br>
-
+### May2023 - NeuralNetworks-Zero2Hero-Course-ShakespeareBot(Infinite Shakespeare Works) - https://github.com/evilusean/MachineLearning/tree/main/NeuralNetworks%3AZero2Hero :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (NeuralNetworks:Zero2Hero) | A collection of resources and files related to neural networks, including various implementations and notes. |
+| (NanoGPT) | A directory containing files related to the NanoGPT model, including scripts and resources. |
+| (V1Files) | Contains initial version files for various neural network implementations and experiments. |
+| (V2Files) | Contains updated version files for neural network implementations and additional resources. |
+| (Jupyter Notebooks in V1Files) | A collection of Jupyter notebooks for various neural network topics and experiments. |
+| (micrograd) | A tiny autograd engine implementing backpropagation and a small neural networks library. |
+| (test) | Contains unit tests for validating the functionality of the neural network implementations. |
+| (Jupyter Notebooks in V2Files) | A collection of updated Jupyter notebooks for advanced neural network topics and experiments. |
+| (MakeMore) | A program that generates new text based on input data using various neural network models. |
 ### April2023 - LeetCode-HackerRank-CodeWars - https://github.com/evilusean/LeetCode-CodeWars-HackerRank :
 # March2023 - ChadChat - Python-Websockets-HTML-CSS-JS - https://github.com/evilusean/evilusean.github.io/tree/main/PythonLiveChatApp :
 # March2023 - DaGram - Flutter - Instagram Clone - https://github.com/evilusean/DaGram-InstagramClone :
