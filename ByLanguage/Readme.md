@@ -4,6 +4,15 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2023-07-01 | (JapaNaeSGrammarTaeKim) | Updates to the Japanese grammar resource. |
+| 2023-07-01 | (JapaNaeSVocabPhrasesTaeKim) | Updates to the vocabulary phrases for Japanese. |
+| 2023-07-01 | (1ProgressSean) | Progress updates for the Japanese learning project.|
+| 2023-07-01 | (MusixMix) | A new project related to music mixing. |
+| 2023-06-30 | (Japanese 1 Words) | Updates to the vocabulary list for Japanese 1. |
+| 2023-06-30 | (Japanese 1 Convo) | Updates to the conversation scripts for Japanese 1.|
+| 2023-06-29 | (VerbsConjugationGodan) | Updates to the Godan verb conjugation resource. |
+| 2023-06-29 | (Adjectives) | Updates to the adjectives resource for Japanese. |
+| 2023-06-29 | (PythagoreanTriples) | A new project related to generating Pythagorean triples. |
 | 2023-04-21 | (MorseCodeEncryptSean) | A program for encrypting messages in Morse code. |
 | 2023-04-21 | (CarlJungsWordAssociateSean) | A program related to word associations based on Carl Jung's theories. |
 | 2023-04-23 | (CommandsPowerShell Windows) | A collection of PowerShell commands for Windows. |
