@@ -4,6 +4,16 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2023-02-01 | (BasicPasswordGeneraSean) | A program for generating basic passwords. |
+| 2023-02-05 | (AlarmClock.py) | A Python script that functions as an alarm clock. |
+| 2023-02-10 | (Chapters\Index) | An index file for organizing chapters. |
+| 2023-02-15 | (Javascript Syntax) | A file containing various JavaScript syntax examples. |
+| 2023-02-20 | (Notes) | A file for taking notes on various topics. |
+| 2023-02-25 | (MiscTools) | A collection of miscellaneous tools. |
+| 2023-02-28 | (CertificaSeans) | A file related to certifications. |
+| 2023-02-28 | (EscapingCanadaChecklist(s)) | A checklist for escaping Canada. |
+| 2023-02-28 | (ApplicASeans) | A program related to applications. |
+| 2023-02-28 | (Prime) | A program for prime number calculations. |
 | 2023-01-11 | TroubleShootingToolsWindows | A set of tools for troubleshooting on Windows. |
 | 2023-01-01 | MiscTools | A collection of miscellaneous tools. |
 | 2022-12-29 | Numpy Syntax | A syntax file for using Numpy in Python. |
