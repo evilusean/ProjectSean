@@ -1,4 +1,22 @@
 All Projects Sorted by reverse chronological date</br>
+### May2023 - CustomChatBot-TwitterAIChatBot-GPT3 - https://github.com/evilusean/MachineLearning/tree/main/CustomChatBot-GPT3 : 
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (README.md) | Overview of the Custom Chat Bot using MindsDB and GPT-3, including setup and usage instructions. |
+| (CHECKstatus) | A script to check the status of the chatbot model. |
+| (CREATEmodel) | A script for creating the chatbot model using MindsDB. |
+| (CREATEsnoopstein) | A script to create a specific model combining Einstein and Snoop Dog's personalities. |
+| (QUERYmodel) | A script for querying the chatbot model for responses. |
+| (QUERYmysql.py) | A Python script for querying the chatbot model using MySQL. |
+| (QUERYsnoopstein) | A script to query the Snoopstein model for responses. |
+| (QUERYtwitter) | A script for querying the chatbot model via Twitter. |
+| (TWITTERbot) | A bot script for interacting with Twitter using the chatbot model. |
+| (TWITTERjob) | A job script for scheduling tasks related to the Twitter bot. |
+| (TWITTERjobcheck) | A script to check the status of scheduled Twitter jobs. |
+| (TWITTERjobdrop) | A script to drop scheduled Twitter jobs. |
+| (TWITTERrespond) | A script for handling responses from the Twitter bot. |
+| (TWITTERresponse) | A script for formatting responses from the Twitter bot. |
+| (TWITTERtweet) | A script for sending tweets from the Twitter bot. |
 ### May2023 - StableDiffusuion-PyTriton - https://github.com/evilusean/MachineLearning/tree/main/StableDiffusion-PyTriton :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
