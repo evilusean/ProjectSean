@@ -4,6 +4,15 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2022-11-01 | periodictable2.csv | A CSV file representing the periodic table. |
+| 2022-11-01 | CaeserCypher2 | An implementation of the Caesar cipher encryption method. |
+| 2022-11-01 | CaeserCypher | Another version of the Caesar cipher encryption method. |
+| 2022-11-01 | BlackJack | A simple implementation of the Blackjack card game. |
+| 2022-10-29 | PythonScript2 | A Python script for unspecified functionality. |
+| 2022-10-29 | PythonScript | Another Python script for unspecified functionality. |
+| 2022-10-25 | LinkedInDisplayImageResize | A program to resize LinkedIn display images. |
+| 2022-10-24 | Movies\\Shows\\Books | A collection or database for movies, shows, and books. |
+| 2022-10-03 | TextToASCIIBinaryEncoder | A program to encode text into ASCII binary format. |
 | Sep 25, 2022 | FractalSierplinskiTriangle | Created a script for generating the Sierpiński triangle fractal. |
 | Sep 24, 2022 | TexasExportsTreeMapScript | Created a script for visualizing Texas exports using a tree map. |
 | Sep 22, 2022 | EscapingCanadaChecklist(s) | Created a checklist for escaping Canada, organized in a directory. |
