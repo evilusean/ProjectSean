@@ -105,19 +105,4 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 | (test) | Contains unit tests for validating the functionality of the neural network implementations. |
 | (Jupyter Notebooks in V2Files) | A collection of updated Jupyter notebooks for advanced neural network topics and experiments. |
 | (MakeMore) | A program that generates new text based on input data using various neural network models. |
-### April2023 - LeetCode-HackerRank-CodeWars - https://github.com/evilusean/LeetCode-CodeWars-HackerRank :
-# March2023 - ChadChat - Python-Websockets-HTML-CSS-JS - https://github.com/evilusean/evilusean.github.io/tree/main/PythonLiveChatApp :
-# March2023 - DaGram - Flutter - Instagram Clone - https://github.com/evilusean/DaGram-InstagramClone :
-## January2023 - JohnsHopkins: Javascript-HTML-CSS for WebDevelopment - https://github.com/evilusean/CourseraGoogleFCC/tree/main/JohnsHopkins%3A%20Javascript-HTML-CSS%20for%20WebDevelopment :
-| Program Name | Brief Summary |
-|------------------------------------------------------------------------------|---------------------------------------------------|
-| Module2 | Contains various assignments and exercises related to JavaScript, HTML, and CSS. |
-| 12-Column Grid Responsive Layout Factors of 12.jpg | An image illustrating the responsive layout factors of a 12-column grid. |
-| 2AssignmentRestaurantBreakpoints | An assignment focusing on responsive design breakpoints for a restaurant website. |
-| 2BoxModel | An assignment that explores the CSS box model. |
-| 2CSS PseudoSelectors | An assignment demonstrating the use of CSS pseudo-selectors. |
-| 2MediaQueries | An assignment that covers the implementation of media queries for responsive design. |
-| 2ResponsiveDesign | An assignment focused on creating a responsive design layout. |
-| 3Assignment3Menu | An assignment that involves creating a menu for a website. |
-| 4Assignment4 | An assignment that covers various JavaScript concepts. |
-| 5Assignment5 | An assignment focusing on AJAX and event handling in JavaScript. |
+
