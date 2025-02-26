@@ -1,4 +1,10 @@
 All Projects Sorted by reverse chronological date</br>
+### May2023 - StableDiffusuion-PyTriton - https://github.com/evilusean/MachineLearning/tree/main/StableDiffusion-PyTriton :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (README.md) | Overview of the Stable Diffusion model and its integration with PyTriton for local deployment. |
+| (client.py) | A client script for interacting with the Stable Diffusion model via the PyTriton server. |
+| (main.py) | The main script to run the Stable Diffusion model using the PyTriton framework. |
 ### May2023 - NanoGPT(created own ShakespeareBot=Infinite Shakespeare Works) : https://github.com/evilusean/MachineLearning/tree/main/NanoGPT :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
