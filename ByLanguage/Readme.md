@@ -4,6 +4,10 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2023-04-21 | (MorseCodeEncryptSean) | A program for encrypting messages in Morse code. |
+| 2023-04-21 | (CarlJungsWordAssociateSean) | A program related to word associations based on Carl Jung's theories. |
+| 2023-04-23 | (CommandsPowerShell Windows) | A collection of PowerShell commands for Windows. |
+| 2023-04-20 | (NewFilesUpload) | A commit that includes the upload of new files. |
 | 2023-02-01 | (BasicPasswordGeneraSean) | A program for generating basic passwords. |
 | 2023-02-05 | (AlarmClock.py) | A Python script that functions as an alarm clock. |
 | 2023-02-10 | (Chapters\Index) | An index file for organizing chapters. |
