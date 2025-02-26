@@ -4,6 +4,9 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2022-12-29 | Numpy Syntax | A syntax file for using Numpy in Python. |
+| 2022-12-28 | Pandas Data Wrangling Syntax | A syntax file for data wrangling using Pandas. |
+| 2022-12-28 | Pandas Syntax | A syntax file for using Pandas in Python. |
 | 2022-11-01 | periodictable2.csv | A CSV file representing the periodic table. |
 | 2022-11-01 | CaeserCypher2 | An implementation of the Caesar cipher encryption method. |
 | 2022-11-01 | CaeserCypher | Another version of the Caesar cipher encryption method. |
