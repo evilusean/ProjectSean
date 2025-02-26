@@ -1,5 +1,14 @@
 All Projects Sorted by reverse chronological date</br>
-### May2023 - NeuralNetworks-Zero2Hero-Course-ShakespeareBot(Infinite Shakespeare Works) - https://github.com/evilusean/MachineLearning/tree/main/NeuralNetworks%3AZero2Hero :
+### May2023 - NanoGPT(created own ShakespeareBot=Infinite Shakespeare Works) : https://github.com/evilusean/MachineLearning/tree/main/NanoGPT :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (NanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| (data) | Contains datasets used for training, including OpenWebText and Shakespeare datasets. |
+| (openwebtext) | Dataset derived from OpenAI's WebText, used for training language models. |
+| (shakespeare) | A dataset containing the works of Shakespeare, formatted for training character-level models. |
+| (shakespeare_char) | A character-level dataset based on Shakespeare's works, suitable for training char-rnn models. |
+| (config) | Configuration files for training and evaluating various GPT models, including fine-tuning scripts. |
+### May2023 - NeuralNetworks-Zero2Hero-Course- https://github.com/evilusean/MachineLearning/tree/main/NeuralNetworks%3AZero2Hero :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | (NeuralNetworks:Zero2Hero) | A collection of resources and files related to neural networks, including various implementations and notes. |
