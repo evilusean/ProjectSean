@@ -4,6 +4,8 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2023-01-11 | TroubleShootingToolsWindows | A set of tools for troubleshooting on Windows. |
+| 2023-01-01 | MiscTools | A collection of miscellaneous tools. |
 | 2022-12-29 | Numpy Syntax | A syntax file for using Numpy in Python. |
 | 2022-12-28 | Pandas Data Wrangling Syntax | A syntax file for data wrangling using Pandas. |
 | 2022-12-28 | Pandas Syntax | A syntax file for using Pandas in Python. |
