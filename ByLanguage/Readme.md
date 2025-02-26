@@ -60,3 +60,64 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 | **Nov 11, 2021**    | [Create OpenFile](https://github.com/evilusean/Pysean/commit/f6ff318)       | Implemented a function to open and read from a file. |
 
 ## MachineLearning - https://github.com/evilusean/MachineLearning :
+### May2023 - CustomChatBot-TwitterAIChatBot-GPT3 - https://github.com/evilusean/MachineLearning/tree/main/CustomChatBot-GPT3 : 
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (README.md) | Overview of the Custom Chat Bot using MindsDB and GPT-3, including setup and usage instructions. |
+| (CHECKstatus) | A script to check the status of the chatbot model. |
+| (CREATEmodel) | A script for creating the chatbot model using MindsDB. |
+| (CREATEsnoopstein) | A script to create a specific model combining Einstein and Snoop Dog's personalities. |
+| (QUERYmodel) | A script for querying the chatbot model for responses. |
+| (QUERYmysql.py) | A Python script for querying the chatbot model using MySQL. |
+| (QUERYsnoopstein) | A script to query the Snoopstein model for responses. |
+| (QUERYtwitter) | A script for querying the chatbot model via Twitter. |
+| (TWITTERbot) | A bot script for interacting with Twitter using the chatbot model. |
+| (TWITTERjob) | A job script for scheduling tasks related to the Twitter bot. |
+| (TWITTERjobcheck) | A script to check the status of scheduled Twitter jobs. |
+| (TWITTERjobdrop) | A script to drop scheduled Twitter jobs. |
+| (TWITTERrespond) | A script for handling responses from the Twitter bot. |
+| (TWITTERresponse) | A script for formatting responses from the Twitter bot. |
+| (TWITTERtweet) | A script for sending tweets from the Twitter bot. |
+### May2023 - StableDiffusuion-PyTriton - https://github.com/evilusean/MachineLearning/tree/main/StableDiffusion-PyTriton :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (README.md) | Overview of the Stable Diffusion model and its integration with PyTriton for local deployment. |
+| (client.py) | A client script for interacting with the Stable Diffusion model via the PyTriton server. |
+| (main.py) | The main script to run the Stable Diffusion model using the PyTriton framework. |
+### May2023 - NanoGPT(created own ShakespeareBot=Infinite Shakespeare Works) : https://github.com/evilusean/MachineLearning/tree/main/NanoGPT :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (NanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| (data) | Contains datasets used for training, including OpenWebText and Shakespeare datasets. |
+| (openwebtext) | Dataset derived from OpenAI's WebText, used for training language models. |
+| (shakespeare) | A dataset containing the works of Shakespeare, formatted for training character-level models. |
+| (shakespeare_char) | A character-level dataset based on Shakespeare's works, suitable for training char-rnn models. |
+| (config) | Configuration files for training and evaluating various GPT models, including fine-tuning scripts. |
+### May2023 - NeuralNetworks-Zero2Hero-Course- https://github.com/evilusean/MachineLearning/tree/main/NeuralNetworks%3AZero2Hero :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (NeuralNetworks:Zero2Hero) | A collection of resources and files related to neural networks, including various implementations and notes. |
+| (NanoGPT) | A directory containing files related to the NanoGPT model, including scripts and resources. |
+| (V1Files) | Contains initial version files for various neural network implementations and experiments. |
+| (V2Files) | Contains updated version files for neural network implementations and additional resources. |
+| (Jupyter Notebooks in V1Files) | A collection of Jupyter notebooks for various neural network topics and experiments. |
+| (micrograd) | A tiny autograd engine implementing backpropagation and a small neural networks library. |
+| (test) | Contains unit tests for validating the functionality of the neural network implementations. |
+| (Jupyter Notebooks in V2Files) | A collection of updated Jupyter notebooks for advanced neural network topics and experiments. |
+| (MakeMore) | A program that generates new text based on input data using various neural network models. |
+### April2023 - LeetCode-HackerRank-CodeWars - https://github.com/evilusean/LeetCode-CodeWars-HackerRank :
+# March2023 - ChadChat - Python-Websockets-HTML-CSS-JS - https://github.com/evilusean/evilusean.github.io/tree/main/PythonLiveChatApp :
+# March2023 - DaGram - Flutter - Instagram Clone - https://github.com/evilusean/DaGram-InstagramClone :
+## January2023 - JohnsHopkins: Javascript-HTML-CSS for WebDevelopment - https://github.com/evilusean/CourseraGoogleFCC/tree/main/JohnsHopkins%3A%20Javascript-HTML-CSS%20for%20WebDevelopment :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|---------------------------------------------------|
+| Module2 | Contains various assignments and exercises related to JavaScript, HTML, and CSS. |
+| 12-Column Grid Responsive Layout Factors of 12.jpg | An image illustrating the responsive layout factors of a 12-column grid. |
+| 2AssignmentRestaurantBreakpoints | An assignment focusing on responsive design breakpoints for a restaurant website. |
+| 2BoxModel | An assignment that explores the CSS box model. |
+| 2CSS PseudoSelectors | An assignment demonstrating the use of CSS pseudo-selectors. |
+| 2MediaQueries | An assignment that covers the implementation of media queries for responsive design. |
+| 2ResponsiveDesign | An assignment focused on creating a responsive design layout. |
+| 3Assignment3Menu | An assignment that involves creating a menu for a website. |
+| 4Assignment4 | An assignment that covers various JavaScript concepts. |
+| 5Assignment5 | An assignment focusing on AJAX and event handling in JavaScript. |
