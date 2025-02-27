@@ -1,4 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
+### August2023 - Create JavaScriptSean(Centralized Repo for WebDev Works) - https://github.com/evilusean/JavaScriptsean :
 ### July2023 - Started Learning Japanese/Genki I + II Textbooks/Create Anki Decks - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS/Genki :
 ### June2023 - 4ChanWebScraper - https://github.com/evilusean/Scraping :
 ### June2023 - CompTIA(A+) - https://github.com/evilusean/CompTIA :
