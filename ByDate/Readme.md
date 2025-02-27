@@ -1,5 +1,25 @@
 All Projects Sorted by reverse chronological date</br>
-
+## December2023 - FreeCodeCamp : JavaScript Algorithms and Data Structures - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Javascript-Algos-DataStructures :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (1.1BasicJavascirpt) | Introduction to basic JavaScript concepts and syntax. |
+| (1.2ES6(EcmaScript)) | Covers ES6 features such as let, const, arrow functions, and template literals. |
+| (1.3RegularExpressions) | Introduction to regular expressions for pattern matching in strings. |
+| (1.4Debugging) | Techniques for debugging JavaScript code effectively. |
+| (1.5BasicDataStructures) | Overview of basic data structures like arrays and objects. |
+| (1.6BasicAlgoScripting) | Introduction to basic algorithm scripting in JavaScript. |
+| (1.7ObjectOrientedProgram) | Concepts of object-oriented programming in JavaScript. |
+| (1.8FunctionalProgramming) | Introduction to functional programming principles in JavaScript. |
+| (1.9IntermediateAlgoScript) | Intermediate-level algorithm scripting challenges. |
+| (2.0PalindromeCheck) | A function to check if a string is a palindrome. |
+| (2.1RomanNumeralConverter) | A function to convert numbers to Roman numerals. |
+| (2.2CaesarCipher) | Implementation of the Caesar cipher encryption technique. |
+| (2.3TeleNumberCheck) | A function to validate US phone numbers. |
+| (2.4CashRegister) | A function to calculate change for a cash register. |
+| (2.5PokemonSearchApp) | A simple application to search for Pokémon using an API. |
+| (GeneralNotes) | General notes and tips related to JavaScript algorithms and data structures. |
+| (readme.md) | Overview of the course and its contents. |
+| (syllabus) | Syllabus outlining the structure and topics covered in the course. |
 ## November2023 - FCC-ResponsiveWebDesign-HTML-CSS-Grid-FlexBox - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-ResponsiveWebDesign-HTML-CSS-Grid-FlexBox :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
