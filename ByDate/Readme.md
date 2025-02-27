@@ -1,4 +1,30 @@
 All Projects Sorted by reverse chronological date</br>
+## FCC-ResponsiveWebDesign-HTML-CSS-Grid-FlexBox - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-ResponsiveWebDesign-HTML-CSS-Grid-FlexBox :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| 1.1CatPhotoApp | A simple web application showcasing cat photos, focusing on basic HTML and CSS. |
+| 1.2BasicCSSCafeMenu | A cafe menu layout using basic CSS styling techniques. |
+| 1.3ColouredMarkersCSS | A project demonstrating the use of colored markers with CSS. |
+| 1.4RegistrationFormsHTML | A registration form built with HTML, focusing on form elements and layout. |
+| 1.5CSSFlexBoxRothkoPainting | A layout inspired by Rothko's paintings, utilizing CSS Flexbox for arrangement. |
+| 1.6CSSFlexBoxPhotoGallery | A photo gallery layout using CSS Flexbox for responsive design. |
+| 1.7TypographyNutritionLabel | A nutrition label designed with a focus on typography and layout. |
+| 1.8AccesibilityQuiz | A quiz focused on web accessibility principles and practices. |
+| 1.9TributePage | A tribute page dedicated to a person or topic, showcasing HTML and CSS skills. |
+| 2.0PseudSelectorsBalanceSheet | A balance sheet layout using CSS pseudo-selectors for styling. |
+| 2.1CSSCatPainting | A project featuring a cat painting layout using CSS techniques. |
+| 2.2ResponsivePiano | A responsive piano layout designed with HTML and CSS. |
+| 2.3TechnicalDocs | A technical documentation page showcasing structured content and styling. |
+| 2.4CSSSkyline | A skyline layout created using CSS for visual representation. |
+| 2.5CSSGridMagazine | A magazine layout utilizing CSS Grid for responsive design. |
+| 2.6AnimatedCSSFerrisWheel | An animated Ferris wheel created with CSS animations. |
+| 2.6ProductLandingPage | A product landing page designed to showcase a product effectively. |
+| 2.7CSSTransformPenguin | A penguin illustration using CSS transforms for styling. |
+| 2.8PersonalPortfolio | A personal portfolio website showcasing projects and skills. |
+| GeneralNotes | General notes and tips related to responsive web design concepts. |
+| Links\\Resources | A collection of useful links and resources for further learning. |
+| Readme.md | The main readme file providing an overview of the course and its contents. |
+| Syllabus | The syllabus outlining the course structure and topics covered. |
 ### September2023 - N5-N3 Vocab/Kanji Lists for Japanese - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS :
 ### August2023 - Create JavaScriptSean(Centralized Repo for WebDev Works) - https://github.com/evilusean/JavaScriptsean :
 ### July2023 - Started Learning Japanese/Genki I + II Textbooks/Create Anki Decks - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS/Genki :
