@@ -1,4 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
+### September2023 - N5-N3 Vocab/Kanji Lists for Japanese - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS :
 ### August2023 - Create JavaScriptSean(Centralized Repo for WebDev Works) - https://github.com/evilusean/JavaScriptsean :
 ### July2023 - Started Learning Japanese/Genki I + II Textbooks/Create Anki Decks - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS/Genki :
 ### June2023 - 4ChanWebScraper - https://github.com/evilusean/Scraping :
