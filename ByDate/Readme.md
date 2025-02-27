@@ -1,6 +1,15 @@
 All Projects Sorted by reverse chronological date</br>
 ## January 2024 - FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries :
-
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (Main Repository) | Overview of front-end development libraries including React, Redux, Bootstrap, and more. |
+| (1.1 Bootstrap) | Learn to build responsive websites using Bootstrap, a front-end framework. |
+| (1.2 jQuery) | Introduction to jQuery, a JavaScript library that simplifies DOM manipulation and event handling. |
+| (1.3 SASS - Syntactically Awesome StyleSheets) | Learn to use SASS for more powerful and maintainable CSS with features like variables and nesting. |
+| (1.4 React) | Introduction to React, a library for building user interfaces with reusable components. |
+| (1.5 Redux) | Learn the fundamentals of Redux for managing application state in a predictable way. |
+| (1.6 React-Redux) | Combining React with Redux to manage state in React applications. |
+| (1.7 Random Quote Machine) | A project to create a random quote generator using React and APIs. |
 ## December2023 - FreeCodeCamp : JavaScript Algorithms and Data Structures - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Javascript-Algos-DataStructures :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
