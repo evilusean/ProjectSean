@@ -1,5 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
-### July2023 - Started Learning Japanese/Genki I + II Textbooks - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS :
+### July2023 - Started Learning Japanese/Genki I + II Textbooks/Create Anki Decks - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS/Genki :
 ### June2023 - 4ChanWebScraper - https://github.com/evilusean/Scraping :
 ### June2023 - CompTIA(A+) - https://github.com/evilusean/CompTIA :
 ### May2023 - CustomChatBot-TwitterAIChatBot-GPT3 - https://github.com/evilusean/MachineLearning/tree/main/CustomChatBot-GPT3 : 
