@@ -1,6 +1,37 @@
 All Projects Sorted by reverse chronological date</br>
 
 ### February2024 - FreeCodeCamp - PHP Course/Tutorial - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (1.1HelloWorld.php) | A simple PHP script that outputs "Hello, World!" to demonstrate basic PHP syntax. |
+| (1.2Variables.php) | Introduction to variables in PHP, including declaration and usage. |
+| (1.3DataTypes.php) | Overview of different data types in PHP, such as strings, integers, and arrays. |
+| (1.4StringFunctions.php) | Demonstrates various string manipulation functions available in PHP. |
+| (1.5MathFunSeans.php) | A script showcasing mathematical functions in PHP. |
+| (1.6GetUserInputForm.php) | A form that collects user input and processes it using PHP. |
+| (1.7BasicCalculator.php) | A simple calculator application built with PHP. |
+| (1.8PostMethod.php) | Demonstrates the use of the POST method in PHP for form submissions. |
+| (1.9Arrays.php) | Introduction to arrays in PHP, including indexed and associative arrays. |
+| (2.0CheckBoxesArray.php) | A script that handles checkbox inputs in forms and processes them as an array. |
+| (2.1AssociatedArrays.php) | Overview of associative arrays in PHP and how to use them. |
+| (2.2Functions.php) | Introduction to defining and using functions in PHP. |
+| (2.3ReturnStatement.php) | Demonstrates the use of return statements in PHP functions. |
+| (2.4IfStatements.php) | Introduction to conditional statements using if, else, and elseif in PHP. |
+| (2.5IfComparative.php) | A script that compares values using if statements. |
+| (2.6BetterCalculator.php) | An improved calculator application that uses functions for operations. |
+| (2.7SwitchStatement.php) | Demonstrates the use of switch statements for conditional logic. |
+| (2.8WhileLoop.php) | Introduction to while loops in PHP for iterative processes. |
+| (2.9DoWhileLoop.php) | Demonstrates the use of do-while loops in PHP. |
+| (3.0ForLoopExample.php) | An example of using for loops to iterate over arrays. |
+| (3.1ForLoopArray.php) | Demonstrates iterating through an array using a for loop. |
+| (3.2Objects&Classes.php) | Introduction to object-oriented programming concepts in PHP, including classes and objects. |
+| (3.3Constructors.php) | Demonstrates the use of constructors in PHP classes. |
+| (3.4ObjectFunctions.php) | Overview of methods in PHP classes and how to define them. |
+| (3.5Getters&Setters.php) | Demonstrates the use of getter and setter methods in PHP classes. |
+| (3.6ClassInheritance.php) | Introduction to class inheritance in PHP, allowing for code reuse and extension. |
+| (Notes) | General notes and tips related to PHP programming concepts. |
+| (Syllabus) | Syllabus outlining the structure and topics covered in the PHP course. |
+| (readme.md) | Overview of the PHP course, including its objectives and learning outcomes. |
 ## January 2024 - FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
