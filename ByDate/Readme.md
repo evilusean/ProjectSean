@@ -112,6 +112,7 @@ All Projects Sorted by reverse chronological date</br>
 ### April2023 - LeetCode-HackerRank-CodeWars - https://github.com/evilusean/LeetCode-CodeWars-HackerRank :
 # March2023 - ChadChat - Python-Websockets-HTML-CSS-JS - https://github.com/evilusean/evilusean.github.io/tree/main/PythonLiveChatApp :
 # March2023 - DaGram - Flutter - Instagram Clone - https://github.com/evilusean/DaGram-InstagramClone :
+### Feburary 2023 - First CV(Data Analyst) - https://evilusean.github.io/CV/ :
 ## January2023 - JohnsHopkins: Javascript-HTML-CSS for WebDevelopment - https://github.com/evilusean/CourseraGoogleFCC/tree/main/JohnsHopkins%3A%20Javascript-HTML-CSS%20for%20WebDevelopment :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|---------------------------------------------------|
