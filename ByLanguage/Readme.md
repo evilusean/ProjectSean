@@ -4,6 +4,7 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2024-03-30 | Create CharacterCount | A script that counts the number of characters in a given input. |
 | 2023-07-01 | (JapaNaeSGrammarTaeKim) | Updates to the Japanese grammar resource. |
 | 2023-07-01 | (JapaNaeSVocabPhrasesTaeKim) | Updates to the vocabulary phrases for Japanese. |
 | 2023-07-01 | (1ProgressSean) | Progress updates for the Japanese learning project.|
