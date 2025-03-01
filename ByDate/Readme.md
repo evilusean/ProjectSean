@@ -1,4 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
+### July2024 - KanBan Board - React/Typescript/Tailwind/Dnd-Kit - https://github.com/evilusean/KanBan :
 ### June2024 - FreeCodeCamp - Learn Three.JS By Building Five Projects - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-ThreeJS-5Projects :
 | Project Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
