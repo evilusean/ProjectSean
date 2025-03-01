@@ -2,7 +2,6 @@ All Projects Sorted by reverse chronological date</br>
 ### March2024 - FreeCodeCamp - E-Commerce App - Next.js / TypeScript / MongoDB / TailwindCSS / Prisma / DaisyUI / AppRouter - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI :
 | Filename | Brief Summary |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| (FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI) | Main directory for the E-Commerce App project built with Next.js, TypeScript, MongoDB, Tailwind CSS, Prisma, and DaisyUI. |
 | (nextjs-ecommerce) | Contains the core application files for the E-Commerce App. |
 | (@types) | Type definitions for TypeScript, including custom types for NextAuth. |
 | (prisma) | Contains the Prisma schema file for database modeling and migrations. |
