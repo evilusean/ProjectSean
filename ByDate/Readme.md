@@ -1,5 +1,13 @@
 All Projects Sorted by reverse chronological date</br>
 ### March2024 - FreeCodeCamp : WeatherApp - React / Next.js / Tailwind / Typescript / CSS - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-WeatherApp-React-NextJS-Tailwind-TypeScript-CSS :
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (weatherapp) | The main directory for the Weather App project built with React, Next.js, Tailwind CSS, and TypeScript. |
+| (components) | Contains React components used in the Weather App, including Navbar, WeatherDetails, and more. |
+| (utils) | Utility functions for the Weather App, such as converting temperature and wind speed. |
+| (src/app) | The source directory for the app, containing components, utilities, and main application files. |
+| (components) | Repeated entry for the components directory, emphasizing its role in organizing UI elements. |
+| (utils) | Repeated entry for the utilities directory, highlighting its importance for helper functions. |
 ### February2024 - FreeCodeCamp : PHP-Laravel-Instagram Clone - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP-Laravel:
 ### February2024 - SeanSS-PureCSS-TokyoSkyline - evilusean.github.io/PureSeanSS(CSS)TokyoSkyline :
 ### February2024 - FreeCodeCamp - PHP Course/Tutorial - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP :
