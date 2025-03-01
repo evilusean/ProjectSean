@@ -1,5 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
-### July2024 - KanBan Board - React/Typescript/Tailwind/Dnd-Kit - https://github.com/evilusean/KanBan :
+### June2024 - KanBan Board - React/Typescript/Tailwind/Dnd-Kit - https://github.com/evilusean/KanBan :
 | Filename | Brief Summary |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | (kanban) | Main directory for the KanBan project, which is built using React, TypeScript, and Vite. |
