@@ -1,4 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
+### March2024 - FreeCodeCamp - E-Commerce App - Next.js / TypeScript / MongoDB / TailwindCSS / Prisma / DaisyUI / AppRouter - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI :
 ### March2024 - FreeCodeCamp - Ticketing App - Next.js / MongoDB / Tailwind / CSS - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-TicketingApp-NextJS-MongoDB-Talwind-CSS :
 | Filename | Brief Summary |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
