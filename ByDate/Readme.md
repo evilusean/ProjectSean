@@ -1,5 +1,6 @@
 All Projects Sorted by reverse chronological date</br>
-
+### April2024 - Trade-Offer - https://github.com/evilusean/evilusean.github.io/tree/main/Trade-Offer : 
+https://evilusean.github.io/Trade-Offer/
 ### April2024 - FreeCodeCamp - FreeCodeCamp - GraphQL / NodeJS / Apollo - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-%20GraphQL-NodeJS%20-%20Apollo :
 ### March2024 - FreeCodeCamp - E-Commerce App - Next.js / TypeScript / MongoDB / TailwindCSS / Prisma / DaisyUI / AppRouter - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI :
 | Filename | Brief Summary |
