@@ -1,5 +1,13 @@
 All Projects Sorted by reverse chronological date</br>
 ### July2024 - KanBan Board - React/Typescript/Tailwind/Dnd-Kit - https://github.com/evilusean/KanBan :
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (kanban) | Main directory for the KanBan project, which is built using React, TypeScript, and Vite. |
+| (public) | Contains public assets for the application, such as images and icons used in the KanBan board. |
+| (src) | Source directory containing the main application code, including components and styles. |
+| (icons) | Directory for icon components used throughout the application, such as Plus and Trash icons. |
+| (components) | Contains reusable React components for the KanBan board, including task cards and column containers. |
+| (assets) | Directory for static assets used in the application, such as SVG files and images. |
 ### June2024 - FreeCodeCamp - Learn Three.JS By Building Five Projects - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-ThreeJS-5Projects :
 | Project Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
