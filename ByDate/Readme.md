@@ -1,5 +1,21 @@
 All Projects Sorted by reverse chronological date</br>
 ### March2024 - FreeCodeCamp - E-Commerce App - Next.js / TypeScript / MongoDB / TailwindCSS / Prisma / DaisyUI / AppRouter - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI :
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI) | Main directory for the E-Commerce App project built with Next.js, TypeScript, MongoDB, Tailwind CSS, Prisma, and DaisyUI. |
+| (nextjs-ecommerce) | Contains the core application files for the E-Commerce App. |
+| (@types) | Type definitions for TypeScript, including custom types for NextAuth. |
+| (prisma) | Contains the Prisma schema file for database modeling and migrations. |
+| (public) | Public assets for the application, such as images and SVG files. |
+| (src) | Source directory containing the main application code. |
+| (app) | Contains application-specific components and pages for the E-Commerce App. |
+| (components) | Directory for reusable React components used throughout the application. |
+| (Navbar) | Contains the Navbar component for navigation within the E-Commerce App. |
+| [(api/auth/[...nextauth])] (https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI/nextjs-ecommerce/src/app/api/auth/%5B...nextauth%5D) | API route for handling authentication using NextAuth. |
+| (assets) | Directory for static assets used in the application. |
+| (cart) | Contains components and logic related to the shopping cart functionality. |
+| (lib) | Library functions and utilities used throughout the application. |
+| (search) | Components and logic related to the search functionality within the E-Commerce App. |
 ### March2024 - FreeCodeCamp - Ticketing App - Next.js / MongoDB / Tailwind / CSS - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-TicketingApp-NextJS-MongoDB-Talwind-CSS :
 | Filename | Brief Summary |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
