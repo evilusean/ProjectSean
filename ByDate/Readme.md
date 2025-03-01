@@ -1,5 +1,14 @@
 All Projects Sorted by reverse chronological date</br>
 ### March2024 - FreeCodeCamp - Ticketing App - Next.js / MongoDB / Tailwind / CSS - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-TicketingApp-NextJS-MongoDB-Talwind-CSS :
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (ticket-app) | The main directory for the Ticketing App project built with Next.js, MongoDB, Tailwind CSS, and more. |
+| (app) | Contains the application logic and structure for the Ticketing App, including components and pages. |
+| (components)) | Directory for reusable React components used in the Ticketing App, such as forms and displays. |
+| (models)) | Contains the data models for the Ticketing App, defining the structure of ticket data. |
+| (TicketPage/[id]) | Dynamic page for displaying individual ticket details based on the ticket ID. |
+| (api/Tickets) | API endpoint for handling ticket-related requests, such as fetching and creating tickets. |
+| (api/Tickets/[id]) | API endpoint for handling requests for a specific ticket based on its ID. |
 ### March2024 - FreeCodeCamp : WeatherApp - React / Next.js / Tailwind / Typescript / CSS - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-WeatherApp-React-NextJS-Tailwind-TypeScript-CSS :
 | Filename | Brief Summary |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
