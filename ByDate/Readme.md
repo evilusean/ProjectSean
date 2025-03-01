@@ -10,7 +10,7 @@ All Projects Sorted by reverse chronological date</br>
 | (app) | Contains application-specific components and pages for the E-Commerce App. |
 | (components) | Directory for reusable React components used throughout the application. |
 | (Navbar) | Contains the Navbar component for navigation within the E-Commerce App. |
-| (api/auth/[...nextauth]) (https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI/nextjs-ecommerce/src/app/api/auth/%5B...nextauth%5D) | API route for handling authentication using NextAuth. |
+| (api/auth/[...nextauth]) | API route for handling authentication using NextAuth. |
 | (assets) | Directory for static assets used in the application. |
 | (cart) | Contains components and logic related to the shopping cart functionality. |
 | (lib) | Library functions and utilities used throughout the application. |
