@@ -1,6 +1,24 @@
 All Projects Sorted by reverse chronological date</br>
 ## July2024 - RecipSean - Recipe App - React / TypeScript / TailwindCSS / ShadCN / NextJS - https://github.com/evilusean/RecipSean-RecipeApp :
 https://recip-sean-recipe-app.vercel.app/
+| Program or Repo Name | Brief Summary |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| recip-sean | Main directory for the RecipSean Recipe App project built with React and TypeScript. |
+| src | Source code directory containing the main application files. |
+| app | Contains application-specific components and API routes. |
+| api | API routes for the application, handling requests related to recipes. |
+| recipe | API routes specifically for recipe-related operations. |
+| [...slug] | Dynamic route for fetching recipe details based on the slug. |
+| random | API route to fetch a random recipe from the database. |
+| fonts | Directory containing custom font files used in the application. |
+| recipe/[...slug] | Dynamic route for displaying individual recipes based on the slug. |
+| components | Contains reusable React components for the application, such as buttons and forms. |
+| ui | UI components used throughout the application for consistent styling. |
+| lib | Library functions and utilities that support the application logic. |
+| recipes | Directory containing recipe data and related files for the application. |
+| schemas | Data schemas for validating recipe data and ensuring consistency. |
+| types | TypeScript type definitions for the application, enhancing type safety. |
+| utils | Utility functions that provide common functionality used throughout the application. |
 ### July2024 - LeetCode - 100 Top Liked - Javascript - https://github.com/evilusean/LeetCode-CodeWars-HackerRank/tree/main/LeetCode/Javascript/100TopLiked :
 ### June2024 - Blender - Donut Tutorial - https://github.com/evilusean/Blender-Gimp-Figma-CAD/tree/main/Blender/Donut :
 ### June2024 - KanBan Board - React/Typescript/Tailwind/Dnd-Kit - https://github.com/evilusean/KanBan :
