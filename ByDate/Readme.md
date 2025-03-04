@@ -1,4 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
+### August2024 - FreeCodeCamp - Mastering VIM - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-VIM :
 ### August2024 - FreeCodeCamp - System Design - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SystemDesign :
 ### July2024 - FreeCodeCamp - JS Library - ShadCN Custom Components : https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-ShadCN-UI :
 | Program Name | Brief Summary |
