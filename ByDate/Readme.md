@@ -1,5 +1,15 @@
 All Projects Sorted by reverse chronological date</br>
 ### October2024 - FreeCodeCamp - Devops - Learn Docker by Building a Node / Express / MongoDB / Redis App - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-DevOps-Docker-Node-Express-Redis-Mongo :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| FCC-DevOps-Docker-Node-Express-Redis-Mongo | A comprehensive project that demonstrates how to build a Node.js application using Docker, Express, MongoDB, and Redis. |
+| Docker | Contains all Docker-related files and configurations for the application, including Dockerfiles and Docker Compose files. |
+| config | Configuration files for the application, including environment variables and settings. |
+| controllers | Contains controller files that handle the business logic for different routes in the application. |
+| middleware | Middleware functions for handling requests, including authentication and error handling. |
+| models | Data models for MongoDB, defining the structure of the data used in the application. |
+| nginx | Nginx configuration files for setting up a reverse proxy and load balancing for the application. |
+| routes | Route definitions for the application, mapping HTTP requests to the appropriate controller functions. |
 ### September2024 - FreeCodeCamp - Mastering VIM - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-VIM :
 ### August2024 - FreeCodeCamp - System Design - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SystemDesign :
 ### July2024 - FreeCodeCamp - JS Library - ShadCN Custom Components : https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-ShadCN-UI :
