@@ -1,4 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
+### October2024 - WaniKani Kanji - https://github.com/evilusean/Pysean/blob/main/Sean/JapaNaeS/1WaniKani%20KanjiList :
 ### October2024 - FreeCodeCamp - Devops - Learn Docker by Building a Node / Express / MongoDB / Redis App - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-DevOps-Docker-Node-Express-Redis-Mongo :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
