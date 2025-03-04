@@ -1,5 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
-### July2024 - FreeCodeCamp - JS Library - ShadCN Custom Components : https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-ShadCN-UI
+### July2024 - FreeCodeCamp - JS Library - ShadCN Custom Components : https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-ShadCN-UI :
 ### July2024 - FreeCodeCamp - Pizza App - JS-Typescript - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC%20-Typescript-PizzaApp :
 ## July2024 - RecipSean - Recipe App - React / TypeScript / TailwindCSS / ShadCN / NextJS - https://github.com/evilusean/RecipSean-RecipeApp :
 https://recip-sean-recipe-app.vercel.app/
