@@ -1,5 +1,12 @@
 All Projects Sorted by reverse chronological date</br>
 ### July2024 - FreeCodeCamp - JS Library - ShadCN Custom Components : https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-ShadCN-UI :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| recipsean/src | Main source directory for the RecipSean Recipe App, containing application code and components. |
+| recipsean/src/app | Contains application-specific files, including API routes and main layout components. |
+| recipsean/src/app/SHADCN | Directory for SHADCN components, including various UI elements like accordions and alerts. |
+| recipsean/src/components/ui | Contains reusable UI components for the application, such as buttons, badges, and avatars. |
+| recipsean/src/lib | Library directory containing utility functions and helpers used throughout the application. |
 ### July2024 - FreeCodeCamp - Pizza App - JS-Typescript - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC%20-Typescript-PizzaApp :
 ## July2024 - RecipSean - Recipe App - React / TypeScript / TailwindCSS / ShadCN / NextJS - https://github.com/evilusean/RecipSean-RecipeApp :
 https://recip-sean-recipe-app.vercel.app/
