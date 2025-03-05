@@ -21,6 +21,17 @@ All Projects Sorted by reverse chronological date</br>
 | String-Literal-Formatting-Interpolation-Concat-Empty-EqualsFunc-iterationLoop-IsNullOrEmptyFunc | Explores string formatting, interpolation, and various string functions in C#. |
 | Structures-Classes-ClassFuncs-ClassFields-ClassVariableScope-ClassProps-ClassToString | Demonstrates the use of classes and structures in C#, including methods, properties, and variable scope. |
 ### November2024 - FreeCodeCamp - Basics of Java Programming - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Java-Basics :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Arrays | A project demonstrating the use of arrays in Java, including creation, manipulation, and iteration. |
+| ForLoops | Illustrates the use of for loops in Java for iterating over collections and performing repetitive tasks. |
+| Functions | A project that showcases how to define and use functions in Java, including parameters and return types. |
+| HelloWorld | A simple Java program that prints "Hello, World!" to demonstrate the basic structure of a Java application. |
+| If-Statements | Demonstrates the use of if statements for conditional logic in Java applications. |
+| OOP | An introduction to Object-Oriented Programming concepts in Java, including classes and objects. |
+| Operations | A project that covers basic operations in Java, such as arithmetic and logical operations. |
+| Variables | Explores variable declaration and usage in Java, including different data types. |
+| WhileLoop | Demonstrates the use of while loops for repeated execution of code based on a condition. |
 ### October2024 - WaniKani Kanji - https://github.com/evilusean/Pysean/blob/main/Sean/JapaNaeS/1WaniKani%20KanjiList :
 ### October2024 - FreeCodeCamp - Devops - Learn Docker by Building a Node / Express / MongoDB / Redis App - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-DevOps-Docker-Node-Express-Redis-Mongo :
 | Program Name | Brief Summary |
