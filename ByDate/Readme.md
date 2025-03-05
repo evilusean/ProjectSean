@@ -1,5 +1,14 @@
 All Projects Sorted by reverse chronological date</br>
-### February2025 - FreeCodeCamp - JS-Phaser-Express-Sockets Multiplayer Card Game -  :
+### February2025 - FreeCodeCamp - JS-Phaser-Express-Sockets Multiplayer Card Game - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Phaser-Express-Socket.IO-MultiplayerCardGame :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| multiplayer-card-project | A Phaser 3 project template for creating a multiplayer card game using Express and Socket.IO. |
+| public | Contains public assets for the project, including HTML and CSS files. |
+| assets | Directory for static assets used in the game, such as images for cards and backgrounds. |
+| src | Source code directory containing the main game logic and configuration files. |
+| helpers | Contains helper functions and utilities for managing game logic, such as card handling. |
+| scenes | Directory for Phaser scenes, which define different game states and interactions. |
+| webpack | Webpack configuration files for bundling the project and managing dependencies. |
 ### January2025 - FreeCodeCamp - Learn C# Programming – Full Course with Mini-Projects - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-C%23-Course-MiniProjects :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
