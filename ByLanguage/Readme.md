@@ -4,6 +4,28 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 ## PySean :
 | Date                | Commit Name                                                                 | Summary                                      |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| 2025-03-05 | Arch.BTW | A collection of resources and notes related to transitioning to Arch Linux. |
+| 2025-03-05 | AstronoMe | An astronomy app project focusing on data visualization and analysis. |
+| 2025-03-05 | CheatSheets | A repository of various cheat sheets for programming languages and tools. |
+| 2025-03-05 | Cursor | A collection of resources and hotkeys related to cursor management and usage. |
+| 2025-03-05 | EncryptSean | A collection of encryption algorithms and tools implemented in Python. |
+| 2025-03-05 | FFMPEG | Scripts and resources for using FFMPEG for multimedia processing. |
+| 2025-03-05 | Hearthstone | A project related to the game Hearthstone, possibly including tools or scripts for gameplay. |
+| 2025-03-05 | ImageInASean-ChromiumExtenSean | A Chromium extension project related to image processing or manipulation. |
+| 2025-03-05 | LocateSeans | A project focused on locating and managing files or resources. |
+| 2025-03-05 | MPD\NCMPCPP | A project related to MPD (Music Player Daemon) and its client NCMPCPP. |
+| 2025-03-05 | NumberConverterTester | A project for testing number conversion algorithms. |
+| 2025-03-05 | Obsidian | A project related to the Obsidian note-taking application, possibly including plugins or scripts. |
+| 2025-03-05 | PeriodicTable | A project related to the periodic table of elements, possibly including data visualization. |
+| 2025-03-05 | ProjectSean | A general project repository for various scripts and tools. |
+| 2025-03-05 | Python-Live-Chat-App | A live chat application built using Python. |
+| 2025-03-05 | Sean | A collection of personal projects and scripts. |
+| 2025-03-05 | TMUX | Resources and configurations for using TMUX, a terminal multiplexer. |
+| 2025-03-05 | TeMeMeSorter | A project for sorting memes or similar content. |
+| 2025-03-05 | VIM | Configuration and resources for using VIM, a text editor. |
+| 2025-03-05 | Workouts | A project related to workout tracking or planning. |
+| 2025-03-05 | wget | Scripts and resources for using wget, a command-line utility for downloading files. |
+| 2025-03-05 | youtube-dl | A project related to downloading videos from YouTube and other platforms. |
 | 2024-03-30 | Create CharacterCount | A script that counts the number of characters in a given input. |
 | 2023-07-01 | (JapaNaeSGrammarTaeKim) | Updates to the Japanese grammar resource. |
 | 2023-07-01 | (JapaNaeSVocabPhrasesTaeKim) | Updates to the vocabulary phrases for Japanese. |
