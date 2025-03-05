@@ -1,5 +1,407 @@
 Reverse Chronological Sorted By Course :
 
+### February2025 - FreeCodeCamp - JS-Phaser-Express-Sockets Multiplayer Card Game - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Phaser-Express-Socket.IO-MultiplayerCardGame :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| multiplayer-card-project | A Phaser 3 project template for creating a multiplayer card game using Express and Socket.IO. |
+| public | Contains public assets for the project, including HTML and CSS files. |
+| assets | Directory for static assets used in the game, such as images for cards and backgrounds. |
+| src | Source code directory containing the main game logic and configuration files. |
+| helpers | Contains helper functions and utilities for managing game logic, such as card handling. |
+| scenes | Directory for Phaser scenes, which define different game states and interactions. |
+| webpack | Webpack configuration files for bundling the project and managing dependencies. |
+### January2025 - FreeCodeCamp - Learn C# Programming – Full Course with Mini-Projects - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-C%23-Course-MiniProjects :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Arrays-Sorting-Reversal-Clearing-IndexOf-Lists-Dicts | A project demonstrating various array operations, including sorting, reversing, and clearing elements. |
+| DataTypes | An exploration of different data types in C#, including their properties and usage. |
+| Exceptions-TryCatch-ErrorMsg-TryParse-Debug-LocalAutoWindow-Watch | A project focused on exception handling in C#, utilizing try-catch blocks and debugging techniques. |
+| Functions-Void-ReturnType-Params-Optional-Named-Out-Reference | Demonstrates the use of functions in C#, including void and return types, parameters, and optional arguments. |
+| HelloWorld | A simple "Hello, World!" program to illustrate the basic structure of a C# application. |
+| If-Switch-For-While-ConditionalOp | A project showcasing various control flow statements in C#, including if, switch, for, and while loops. |
+| Project1-Store-User-Data | A project that implements functionality to store and manage user data in a C# application. |
+| Project10-SumOfIntArray | Calculates the sum of integers in an array, demonstrating array manipulation and iteration. |
+| Project2-OddEven-Checker | A program that checks whether a number is odd or even, illustrating conditional logic. |
+| Project3-TimesTable | Generates a multiplication table for a given number, demonstrating loops and output formatting. |
+| Project4-FizzBuzz | Implements the classic FizzBuzz problem, showcasing conditional statements and loops. |
+| Project5-PrintStringReverse | A program that reverses a given string and prints it, demonstrating string manipulation. |
+| Project6-PasswordChecker | Checks the strength of a password based on certain criteria, illustrating string and conditional logic. |
+| Project7-OddEvenNumberSplit | Splits an array of numbers into odd and even arrays, demonstrating array manipulation. |
+| Project8-ArrayOfMultiples | Generates an array of multiples of a given number, showcasing loops and array creation. |
+| Project9-AreaOfTriangle | Calculates the area of a triangle based on user input, demonstrating mathematical operations and user input handling. |
+| String-Literal-Formatting-Interpolation-Concat-Empty-EqualsFunc-iterationLoop-IsNullOrEmptyFunc | Explores string formatting, interpolation, and various string functions in C#. |
+| Structures-Classes-ClassFuncs-ClassFields-ClassVariableScope-ClassProps-ClassToString | Demonstrates the use of classes and structures in C#, including methods, properties, and variable scope. |
+### November2024 - FreeCodeCamp - Basics of Java Programming - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Java-Basics :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Arrays | A project demonstrating the use of arrays in Java, including creation, manipulation, and iteration. |
+| ForLoops | Illustrates the use of for loops in Java for iterating over collections and performing repetitive tasks. |
+| Functions | A project that showcases how to define and use functions in Java, including parameters and return types. |
+| HelloWorld | A simple Java program that prints "Hello, World!" to demonstrate the basic structure of a Java application. |
+| If-Statements | Demonstrates the use of if statements for conditional logic in Java applications. |
+| OOP | An introduction to Object-Oriented Programming concepts in Java, including classes and objects. |
+| Operations | A project that covers basic operations in Java, such as arithmetic and logical operations. |
+| Variables | Explores variable declaration and usage in Java, including different data types. |
+| WhileLoop | Demonstrates the use of while loops for repeated execution of code based on a condition. |
+### October2024 - FreeCodeCamp - Devops - Learn Docker by Building a Node / Express / MongoDB / Redis App - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-DevOps-Docker-Node-Express-Redis-Mongo :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| FCC-DevOps-Docker-Node-Express-Redis-Mongo | A comprehensive project that demonstrates how to build a Node.js application using Docker, Express, MongoDB, and Redis. |
+| Docker | Contains all Docker-related files and configurations for the application, including Dockerfiles and Docker Compose files. |
+| config | Configuration files for the application, including environment variables and settings. |
+| controllers | Contains controller files that handle the business logic for different routes in the application. |
+| middleware | Middleware functions for handling requests, including authentication and error handling. |
+| models | Data models for MongoDB, defining the structure of the data used in the application. |
+| nginx | Nginx configuration files for setting up a reverse proxy and load balancing for the application. |
+| routes | Route definitions for the application, mapping HTTP requests to the appropriate controller functions. |
+### September2024 - FreeCodeCamp - Mastering VIM - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-VIM :
+### August2024 - FreeCodeCamp - System Design - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SystemDesign :
+### July2024 - FreeCodeCamp - JS Library - ShadCN Custom Components : https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-ShadCN-UI :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| recipsean/src | Main source directory for the RecipSean Recipe App, containing application code and components. |
+| recipsean/src/app | Contains application-specific files, including API routes and main layout components. |
+| recipsean/src/app/SHADCN | Directory for SHADCN components, including various UI elements like accordions and alerts. |
+| recipsean/src/components/ui | Contains reusable UI components for the application, such as buttons, badges, and avatars. |
+| recipsean/src/lib | Library directory containing utility functions and helpers used throughout the application. |
+### July2024 - FreeCodeCamp - Pizza App - JS-Typescript - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC%20-Typescript-PizzaApp :
+## July2024 - RecipSean - Recipe App - React / TypeScript / TailwindCSS / ShadCN / NextJS - https://github.com/evilusean/RecipSean-RecipeApp :
+https://recip-sean-recipe-app.vercel.app/
+| Program or Repo Name | Brief Summary |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| recip-sean | Main directory for the RecipSean Recipe App project built with React and TypeScript. |
+| src | Source code directory containing the main application files. |
+| app | Contains application-specific components and API routes. |
+| api | API routes for the application, handling requests related to recipes. |
+| recipe | API routes specifically for recipe-related operations. |
+| [...slug] | Dynamic route for fetching recipe details based on the slug. |
+| random | API route to fetch a random recipe from the database. |
+| fonts | Directory containing custom font files used in the application. |
+| recipe/[...slug] | Dynamic route for displaying individual recipes based on the slug. |
+| components | Contains reusable React components for the application, such as buttons and forms. |
+| ui | UI components used throughout the application for consistent styling. |
+| lib | Library functions and utilities that support the application logic. |
+| recipes | Directory containing recipe data and related files for the application. |
+| schemas | Data schemas for validating recipe data and ensuring consistency. |
+| types | TypeScript type definitions for the application, enhancing type safety. |
+| utils | Utility functions that provide common functionality used throughout the application. |
+### June2024 - KanBan Board - React/Typescript/Tailwind/Dnd-Kit - https://github.com/evilusean/KanBan :
+https://kan-ban-peach.vercel.app/
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (kanban) | Main directory for the KanBan project, which is built using React, TypeScript, and Vite. |
+| (public) | Contains public assets for the application, such as images and icons used in the KanBan board. |
+| (src) | Source directory containing the main application code, including components and styles. |
+| (icons) | Directory for icon components used throughout the application, such as Plus and Trash icons. |
+| (components) | Contains reusable React components for the KanBan board, including task cards and column containers. |
+| (assets) | Directory for static assets used in the application, such as SVG files and images. |
+### June2024 - FreeCodeCamp - Learn Three.JS By Building Five Projects - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-ThreeJS-5Projects :
+| Project Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (1Basics) | Introduction to the basics of Three.js, including setting up a project, creating a scene, and adding basic shapes and lighting. |
+| (2Earth) | A project that builds a 3D model of the Earth, complete with textures and lighting effects, and animates its rotation. |
+| (3Wormhole) | Create a mesmerizing wireframe wormhole effect, focusing on wireframe geometries and camera animations. |
+| (4Transition) | Learn to create smooth transition effects between scenes using shaders and managing multiple objects. |
+| (5RapierPhysics) | Integrate physics into Three.js scenes using the Rapier physics engine, simulating realistic interactions and collisions. |
+| (Links/Resources) | A collection of useful links and resources related to Three.js and the projects in this repository. |
+### May2024 - Top 10 Javascript Algos - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Javascript-Top10Algos : 
+### April2024 - Trade-Offer - https://github.com/evilusean/evilusean.github.io/tree/main/Trade-Offer : 
+https://evilusean.github.io/Trade-Offer/
+### April2024 - FreeCodeCamp - FreeCodeCamp - GraphQL / NodeJS / Apollo - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-%20GraphQL-NodeJS%20-%20Apollo :
+### March2024 - FreeCodeCamp - E-Commerce App - Next.js / TypeScript / MongoDB / TailwindCSS / Prisma / DaisyUI / AppRouter - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-E-CommerceApp-NextJS-TypeScript-MongoDB-Tailwind-Prisma-DaisyUI :
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (nextjs-ecommerce) | Contains the core application files for the E-Commerce App. |
+| (@types) | Type definitions for TypeScript, including custom types for NextAuth. |
+| (prisma) | Contains the Prisma schema file for database modeling and migrations. |
+| (public) | Public assets for the application, such as images and SVG files. |
+| (src) | Source directory containing the main application code. |
+| (app) | Contains application-specific components and pages for the E-Commerce App. |
+| (components) | Directory for reusable React components used throughout the application. |
+| (Navbar) | Contains the Navbar component for navigation within the E-Commerce App. |
+| (api/auth/[...nextauth]) | API route for handling authentication using NextAuth. |
+| (assets) | Directory for static assets used in the application. |
+| (cart) | Contains components and logic related to the shopping cart functionality. |
+| (lib) | Library functions and utilities used throughout the application. |
+| (search) | Components and logic related to the search functionality within the E-Commerce App. |
+### March2024 - FreeCodeCamp - Ticketing App - Next.js / MongoDB / Tailwind / CSS - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-TicketingApp-NextJS-MongoDB-Talwind-CSS :
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (ticket-app) | The main directory for the Ticketing App project built with Next.js, MongoDB, Tailwind CSS, and more. |
+| (app) | Contains the application logic and structure for the Ticketing App, including components and pages. |
+| (components)) | Directory for reusable React components used in the Ticketing App, such as forms and displays. |
+| (models)) | Contains the data models for the Ticketing App, defining the structure of ticket data. |
+| (TicketPage/[id]) | Dynamic page for displaying individual ticket details based on the ticket ID. |
+| (api/Tickets) | API endpoint for handling ticket-related requests, such as fetching and creating tickets. |
+| (api/Tickets/[id]) | API endpoint for handling requests for a specific ticket based on its ID. |
+### March2024 - FreeCodeCamp : WeatherApp - React / Next.js / Tailwind / Typescript / CSS - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-WeatherApp-React-NextJS-Tailwind-TypeScript-CSS :
+| Filename | Brief Summary |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (weatherapp) | The main directory for the Weather App project built with React, Next.js, Tailwind CSS, and TypeScript. |
+| (components) | Contains React components used in the Weather App, including Navbar, WeatherDetails, and more. |
+| (utils) | Utility functions for the Weather App, such as converting temperature and wind speed. |
+| (src/app) | The source directory for the app, containing components, utilities, and main application files. |
+| (components) | Repeated entry for the components directory, emphasizing its role in organizing UI elements. |
+| (utils) | Repeated entry for the utilities directory, highlighting its importance for helper functions. |
+### February2024 - FreeCodeCamp : PHP-Laravel-Instagram Clone - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP-Laravel:
+### February2024 - FreeCodeCamp - PHP Course/Tutorial - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (1.1HelloWorld.php) | A simple PHP script that outputs "Hello, World!" to demonstrate basic PHP syntax. |
+| (1.2Variables.php) | Introduction to variables in PHP, including declaration and usage. |
+| (1.3DataTypes.php) | Overview of different data types in PHP, such as strings, integers, and arrays. |
+| (1.4StringFunctions.php) | Demonstrates various string manipulation functions available in PHP. |
+| (1.5MathFunSeans.php) | A script showcasing mathematical functions in PHP. |
+| (1.6GetUserInputForm.php) | A form that collects user input and processes it using PHP. |
+| (1.7BasicCalculator.php) | A simple calculator application built with PHP. |
+| (1.8PostMethod.php) | Demonstrates the use of the POST method in PHP for form submissions. |
+| (1.9Arrays.php) | Introduction to arrays in PHP, including indexed and associative arrays. |
+| (2.0CheckBoxesArray.php) | A script that handles checkbox inputs in forms and processes them as an array. |
+| (2.1AssociatedArrays.php) | Overview of associative arrays in PHP and how to use them. |
+| (2.2Functions.php) | Introduction to defining and using functions in PHP. |
+| (2.3ReturnStatement.php) | Demonstrates the use of return statements in PHP functions. |
+| (2.4IfStatements.php) | Introduction to conditional statements using if, else, and elseif in PHP. |
+| (2.5IfComparative.php) | A script that compares values using if statements. |
+| (2.6BetterCalculator.php) | An improved calculator application that uses functions for operations. |
+| (2.7SwitchStatement.php) | Demonstrates the use of switch statements for conditional logic. |
+| (2.8WhileLoop.php) | Introduction to while loops in PHP for iterative processes. |
+| (2.9DoWhileLoop.php) | Demonstrates the use of do-while loops in PHP. |
+| (3.0ForLoopExample.php) | An example of using for loops to iterate over arrays. |
+| (3.1ForLoopArray.php) | Demonstrates iterating through an array using a for loop. |
+| (3.2Objects&Classes.php) | Introduction to object-oriented programming concepts in PHP, including classes and objects. |
+| (3.3Constructors.php) | Demonstrates the use of constructors in PHP classes. |
+| (3.4ObjectFunctions.php) | Overview of methods in PHP classes and how to define them. |
+| (3.5Getters&Setters.php) | Demonstrates the use of getter and setter methods in PHP classes. |
+| (3.6ClassInheritance.php) | Introduction to class inheritance in PHP, allowing for code reuse and extension. |
+| (Notes) | General notes and tips related to PHP programming concepts. |
+| (Syllabus) | Syllabus outlining the structure and topics covered in the PHP course. |
+| (readme.md) | Overview of the PHP course, including its objectives and learning outcomes. |
+## January 2024 - FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (Main Repository) | Overview of front-end development libraries including React, Redux, Bootstrap, and more. |
+| (1.1 Bootstrap) | Learn to build responsive websites using Bootstrap, a front-end framework. |
+| (1.2 jQuery) | Introduction to jQuery, a JavaScript library that simplifies DOM manipulation and event handling. |
+| (1.3 SASS - Syntactically Awesome StyleSheets) | Learn to use SASS for more powerful and maintainable CSS with features like variables and nesting. |
+| (1.4 React) | Introduction to React, a library for building user interfaces with reusable components. |
+| (1.5 Redux) | Learn the fundamentals of Redux for managing application state in a predictable way. |
+| (1.6 React-Redux) | Combining React with Redux to manage state in React applications. |
+| (1.7 Random Quote Machine) | A project to create a random quote generator using React and APIs. |
+## December2023 - FreeCodeCamp : JavaScript Algorithms and Data Structures - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Javascript-Algos-DataStructures :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (1.1BasicJavascirpt) | Introduction to basic JavaScript concepts and syntax. |
+| (1.2ES6(EcmaScript)) | Covers ES6 features such as let, const, arrow functions, and template literals. |
+| (1.3RegularExpressions) | Introduction to regular expressions for pattern matching in strings. |
+| (1.4Debugging) | Techniques for debugging JavaScript code effectively. |
+| (1.5BasicDataStructures) | Overview of basic data structures like arrays and objects. |
+| (1.6BasicAlgoScripting) | Introduction to basic algorithm scripting in JavaScript. |
+| (1.7ObjectOrientedProgram) | Concepts of object-oriented programming in JavaScript. |
+| (1.8FunctionalProgramming) | Introduction to functional programming principles in JavaScript. |
+| (1.9IntermediateAlgoScript) | Intermediate-level algorithm scripting challenges. |
+| (2.0PalindromeCheck) | A function to check if a string is a palindrome. |
+| (2.1RomanNumeralConverter) | A function to convert numbers to Roman numerals. |
+| (2.2CaesarCipher) | Implementation of the Caesar cipher encryption technique. |
+| (2.3TeleNumberCheck) | A function to validate US phone numbers. |
+| (2.4CashRegister) | A function to calculate change for a cash register. |
+| (2.5PokemonSearchApp) | A simple application to search for Pokémon using an API. |
+| (GeneralNotes) | General notes and tips related to JavaScript algorithms and data structures. |
+| (readme.md) | Overview of the course and its contents. |
+| (syllabus) | Syllabus outlining the structure and topics covered in the course. |
+## November2023 - FCC-ResponsiveWebDesign-HTML-CSS-Grid-FlexBox - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-ResponsiveWebDesign-HTML-CSS-Grid-FlexBox :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| 1.1CatPhotoApp | A simple web application showcasing cat photos, focusing on basic HTML and CSS. |
+| 1.2BasicCSSCafeMenu | A cafe menu layout using basic CSS styling techniques. |
+| 1.3ColouredMarkersCSS | A project demonstrating the use of colored markers with CSS. |
+| 1.4RegistrationFormsHTML | A registration form built with HTML, focusing on form elements and layout. |
+| 1.5CSSFlexBoxRothkoPainting | A layout inspired by Rothko's paintings, utilizing CSS Flexbox for arrangement. |
+| 1.6CSSFlexBoxPhotoGallery | A photo gallery layout using CSS Flexbox for responsive design. |
+| 1.7TypographyNutritionLabel | A nutrition label designed with a focus on typography and layout. |
+| 1.8AccesibilityQuiz | A quiz focused on web accessibility principles and practices. |
+| 1.9TributePage | A tribute page dedicated to a person or topic, showcasing HTML and CSS skills. |
+| 2.0PseudSelectorsBalanceSheet | A balance sheet layout using CSS pseudo-selectors for styling. |
+| 2.1CSSCatPainting | A project featuring a cat painting layout using CSS techniques. |
+| 2.2ResponsivePiano | A responsive piano layout designed with HTML and CSS. |
+| 2.3TechnicalDocs | A technical documentation page showcasing structured content and styling. |
+| 2.4CSSSkyline | A skyline layout created using CSS for visual representation. |
+| 2.5CSSGridMagazine | A magazine layout utilizing CSS Grid for responsive design. |
+| 2.6AnimatedCSSFerrisWheel | An animated Ferris wheel created with CSS animations. |
+| 2.6ProductLandingPage | A product landing page designed to showcase a product effectively. |
+| 2.7CSSTransformPenguin | A penguin illustration using CSS transforms for styling. |
+| 2.8PersonalPortfolio | A personal portfolio website showcasing projects and skills. |
+| GeneralNotes | General notes and tips related to responsive web design concepts. |
+| Links\\Resources | A collection of useful links and resources for further learning. |
+| Readme.md | The main readme file providing an overview of the course and its contents. |
+| Syllabus | The syllabus outlining the course structure and topics covered. |
+### July2023 - Started Learning Japanese/Genki I + II Textbooks/Create Anki Decks - https://github.com/evilusean/Pysean/tree/main/Sean/JapaNaeS/Genki :
+### May2023 - NanoGPT(created own ShakespeareBot=Infinite Shakespeare Works) : https://github.com/evilusean/MachineLearning/tree/main/NanoGPT :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (NanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| (data) | Contains datasets used for training, including OpenWebText and Shakespeare datasets. |
+| (openwebtext) | Dataset derived from OpenAI's WebText, used for training language models. |
+| (shakespeare) | A dataset containing the works of Shakespeare, formatted for training character-level models. |
+| (shakespeare_char) | A character-level dataset based on Shakespeare's works, suitable for training char-rnn models. |
+| (config) | Configuration files for training and evaluating various GPT models, including fine-tuning scripts. |
+### May2023 - NeuralNetworks-Zero2Hero-Course- https://github.com/evilusean/MachineLearning/tree/main/NeuralNetworks%3AZero2Hero :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (NeuralNetworks:Zero2Hero) | A collection of resources and files related to neural networks, including various implementations and notes. |
+| (NanoGPT) | A directory containing files related to the NanoGPT model, including scripts and resources. |
+| (V1Files) | Contains initial version files for various neural network implementations and experiments. |
+| (V2Files) | Contains updated version files for neural network implementations and additional resources. |
+| (Jupyter Notebooks in V1Files) | A collection of Jupyter notebooks for various neural network topics and experiments. |
+| (micrograd) | A tiny autograd engine implementing backpropagation and a small neural networks library. |
+| (test) | Contains unit tests for validating the functionality of the neural network implementations. |
+| (Jupyter Notebooks in V2Files) | A collection of updated Jupyter notebooks for advanced neural network topics and experiments. |
+| (MakeMore) | A program that generates new text based on input data using various neural network models. |
+## January2023 - JohnsHopkins: Javascript-HTML-CSS for WebDevelopment - https://github.com/evilusean/CourseraGoogleFCC/tree/main/JohnsHopkins%3A%20Javascript-HTML-CSS%20for%20WebDevelopment :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|---------------------------------------------------|
+| Module2 | Contains various assignments and exercises related to JavaScript, HTML, and CSS. |
+| 12-Column Grid Responsive Layout Factors of 12.jpg | An image illustrating the responsive layout factors of a 12-column grid. |
+| 2AssignmentRestaurantBreakpoints | An assignment focusing on responsive design breakpoints for a restaurant website. |
+| 2BoxModel | An assignment that explores the CSS box model. |
+| 2CSS PseudoSelectors | An assignment demonstrating the use of CSS pseudo-selectors. |
+| 2MediaQueries | An assignment that covers the implementation of media queries for responsive design. |
+| 2ResponsiveDesign | An assignment focused on creating a responsive design layout. |
+| 3Assignment3Menu | An assignment that involves creating a menu for a website. |
+| 4Assignment4 | An assignment that covers various JavaScript concepts. |
+| 5Assignment5 | An assignment focusing on AJAX and event handling in JavaScript. |
+### December2022 - SQLZoo - https://github.com/evilusean/SQL/tree/main/SQLZoo :
+## October2022 - Google IT Support Professional - https://github.com/evilusean/CourseraGoogleFCC/tree/main/IT-Support-Professional :
+2. 1Technical Support Fundamentals</br>
+| 1AND-Gate-.png | Image of an AND gate. |</br>
+| 1Circuit-Truth-table.png | Truth table for logic circuits. |</br>
+| 1Circuit-drawing.png | Diagram of a circuit. |</br>
+| 1LogicGatesReading | Reading material on logic gates. |</br>
+| 1NAND-Gate.png | Image of a NAND gate. |</br>
+| 1NOT-Gate-copy.png | Image of a NOT gate. |</br>
+| 1OR-Gate.png | Image of an OR gate. |</br>
+| 1XNOR-Gate.png | Image of an XNOR gate. |</br>
+| 1XOR-Gate-.png | Image of an XOR gate. |</br>
+| 2CPUOverclocking | Information on CPU overclocking. |</br>
+| 2Communication-Connectors.png | Image of communication connectors. |</br>
+| 2DataStorage | Overview of data storage methods. |</br>
+| 2MobileDisplayTypes | Information on mobile display types. |</br>
+| 2PowerSupplies | Overview of power supplies. |</br>
+| 2ScriptingSolutionsSummary | Summary of scripting solutions. |</br>
+| 2USB-Types.png | Image of USB types. |</br>
+| 3BootMethods | Overview of boot methods. |</br>
+| 3Windows 10 Vs 11 | Comparison between Windows 10 and 11. |</br>
+| 6ElevatorPitch | Guidelines for creating an elevator pitch. |</br>
+| 6Resume-Example-1_Google-IT-Support.pdf | Example resume for Google IT Support. |</br>
+| 6Resume-Example-2_Google-IT-Support.pdf | Another example resume. |</br>
+| 6Resume-Example-3_Google-IT-Support.pdf | Third example resume. |</br>
+| 6ResumeTips | Tips for writing a resume. |</br>
+| General Notes | General notes related to the course. |</br>
+| Links\Resources | Links and resources for further reading. |</br>
+| Syllabus | Course syllabus. |</br>
+3. 2The Bits and Bytes of Computer Networking</br>
+| 1EthernetCableTechTwistedPairsCrossOver | Information on Ethernet cable technology. |</br>
+| 1EthernetFrameDataPacket.jpg | Image of an Ethernet frame data packet. |</br>
+| 1TCP IP 5 Layer Model.jpg | Image of the TCP/IP 5-layer model. |</br>
+| 2IP Datagram Header.jpg | Image of an IP datagram header. |</br>
+| 2IP Network Classes.jpg | Overview of IP network classes. |</br>
+| 3CommonPorts.pdf | Common ports used in networking. |</br>
+| 3SystemVsEphemeralPorts | Comparison of system and ephemeral ports. |</br>
+| 3TCP Header.jpg | Image of a TCP header. |</br>
+| 4AddressExhaustion | Information on address exhaustion. |</br>
+| 4IPv4-Address-Exhaustion--C2M4-.png | Image related to IPv4 address exhaustion. |</br>
+| 5Alphabet-Soup-tableWIFI.png | Image of WiFi standards. |</br>
+| 5BroadBand | Overview of broadband technologies. |</br>
+4. 3Operating Systems and You: Becoming a Power User</br>
+| 1Command-Line-Commands | Overview of essential command-line commands. |</br>
+| 1Linux-File-System-Structure | Explanation of the Linux file system structure. |</br>
+| 1Operating-System-Functions | Functions of operating systems. |</br>
+| 2File-Management | Techniques for managing files in an OS. |</br>
+| 2Linux-File-Management | File management in Linux. |</br>
+| 3Windows-File-Management | File management in Windows. |</br>
+| 4System-Administration | Overview of system administration tasks. |</br>
+| 5Troubleshooting | Techniques for troubleshooting operating systems. |</br>
+5. 4System Administration and IT Infrastructure</br>
+| 1IT-Infrastructure | Overview of IT infrastructure components. |</br>
+| 2Networking | Basics of networking in IT infrastructure. |</br>
+| 3Virtualization | Introduction to virtualization technologies. |</br>
+| 4Cloud-Computing | Overview of cloud computing concepts. |</br>
+| 5Backup-and-Recovery | Techniques for backup and recovery in IT. |</br>
+6. 5IT Security</br>
+| 1Security-Fundamentals | Overview of IT security fundamentals. |</br>
+| 2Network-Security | Basics of network security practices. |</br>
+| 3Data-Security | Techniques for securing data. |</br>
+| 4Incident-Response | Overview of incident response strategies. |</br>
+| 5Security-Policies | Importance of security policies in IT. |</br>
+## September2022 - OnlineFruitStore-PythonWebServerPDFEmailHealthCheck - https://github.com/evilusean/OnlineFruitStore-PythonWebServerPDFEmailHealthCheck :
+## September2022 - Google Project Management - https://github.com/evilusean/CourseraGoogleFCC/tree/main/ProjectManagement :
+## July2022 - Google IT-Automation-With-Python - https://github.com/evilusean/CourseraGoogleFCC/tree/main/IT-Automation-With-Python : 
+1CrashCourseOnPython</br>
+| ClothingClass.py | Class definition for clothing items. |</br>
+| CountOfMonteCristo.txt | Text file containing "The Count of Monte Cristo". |</br>
+| DogYearsClassMethod.py | Class method to convert human years to dog years. |</br>
+| JupyterC1M5L2_Methods_and_Classes_V3.ipynb | Jupyter notebook covering methods and classes in Python. |</br>
+2Using Python to Interact with the Operating System</br>
+| FileManagement.py | Script for managing files and directories. |</br>
+| OSModuleExamples.py | Examples of using the OS module in Python. |</br>
+3Introduction to Git and GitHub</br>
+| GitHubBasics.md | Overview of Git and GitHub basics. |</br>
+| GitCommands.md | Common Git commands and their usage. |</br>
+4Troubleshooting and Debugging Techniques</br>
+| DebuggingStrategies.md | Strategies for debugging Python code. |</br>
+| TroubleshootingCommonErrors.md | Common errors in Python and how to troubleshoot them. |</br>
+5Configuration Management and the Cloud</br>
+| ConfigurationManagement.md | Overview of configuration management concepts. |</br>
+| CloudComputingBasics.md | Basics of cloud computing and its benefits. |</br>
+6Automating Real-World Tasks with Python</br>
+| AutomationScripts.md | Overview of scripts for automating tasks. |</br>
+| RealWorldAutomationExamples.py | Examples of real-world automation tasks using Python. |</br>
+## July2022 - IBM-Boston-LargeDataSet-CapstoneProject-Jupyter-Python - https://github.com/evilusean/IBM4BostonHousingDataAnalysisProject :
+## June2022 - IBM-Python-Webscraping-Stocks-Project-For-Data-Science - https://github.com/evilusean/IBMPythonWebscrapingStocksProjectForDataScience :
+This repository contains various projects and assignments related to web scraping financial data using Python. Below is a summary of the key components organized by file:
+| Program Name | Summary |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| Final Assignment Webscraping.ipynb | Jupyter Notebook for the final assignment on web scraping. |
+| Final AssignmentNotebook.ipynb | Another Jupyter Notebook for the final assignment. |
+| FinalAssignmentNoteBookScript2.py | Python script related to the final assignment notebook. |
+| FinalAssignmentTeslaGamestopScript | Script for scraping data related to Tesla and GameStop. |
+| FinalWebscrapingNetflix&StonksScript.py | Script for scraping data from Netflix and other stocks. |
+| Final_Assignment Library.ipynb | Jupyter Notebook for the final assignment library. |
+| Final_Assignment LibraryScriptAAPLStonksChart | Script for generating charts for Apple stock data. |
+| GameStopRevenueChart.jpg | Chart visualizing GameStop's revenue. |
+| GamestopPriceChart.jpg | Chart visualizing GameStop's stock price. |
+| IBMWebscrapingJupyterNotebook.ipynb | Jupyter Notebook for web scraping IBM stock data. |
+| Labs | Folder containing additional lab exercises. |
+| MakeGraphFunction.jpg | Image of a function used for graphing data. |
+| README.md | Overview and instructions for the project. |
+| TeslaPriceChart.jpg | Chart visualizing Tesla's stock price. |
+| TeslaRevenueChart.jpg | Chart visualizing Tesla's revenue. |
+| WebScrapingReviewPopulationDensityScript | Script for reviewing population density data through web scraping. |
+| WebScraping_Review_Lab.ipynb | Jupyter Notebook for reviewing web scraping techniques. |
+
+## May2022 - Coursera-IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization - https://github.com/evilusean/Coursera-IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization :
+| Program Name | Summary |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| Coursera IBM Data Science Fundamentals with Python and SQL Specialization | Repository containing various projects and assignments related to the IBM Data Science Fundamentals specialization. |
+| 1. Databases and SQL for Data Science with Python | Covers the fundamentals of databases and SQL, focusing on data retrieval and manipulation using Python. |
+| 2. Python for Data Science, AI & Development | Introduces Python programming for data science, including libraries and tools for data analysis and AI development. |
+| 4. Statistics for Data Science with Python | Focuses on statistical concepts and methods used in data science, with practical applications using Python. |
+| 5. Tools for Data Science | Discusses various tools and technologies used in data science, including Jupyter notebooks and data visualization tools. |
+
+## January2022 - Coursera-Google-Data-Analyst - https://github.com/evilusean/CourseraGoogleDataAnalyst :
+| Program Name | Summary |
+|-------------------------------------------------------------------------------|----------------------------------------------|
+| Analyze Data To Answer Questions | Contains resources and materials for analyzing data to derive insights and answer specific questions. |
+| Ask Questions to Make Data-Driven Decisions | Focuses on formulating questions that can be answered through data analysis, emphasizing the importance of asking the right questions. |
+| Data Analysis With R | Introduces R programming for data analysis, including data manipulation, statistical analysis, and visualization using R. |
+| Foundations: Data, Data, Everywhere | Covers the basics of data analytics, including understanding data types, data collection methods, and the importance of data in decision-making. |
+| Prepare For Data Exploration | Involves techniques for preparing and cleaning data for analysis, including data wrangling and transformation processes. |
+| Process Data From Dirty To Clean | Teaches how to clean and process raw data to make it suitable for analysis, addressing common data quality issues. |
+| Share Data Through the Art of Visualization | Covers data visualization techniques, teaching how to effectively communicate data findings through visual representations. |
+| Capstone Project: Case Study 1 | A comprehensive project that allows learners to apply the skills and knowledge gained throughout the specialization to a real-world data analysis scenario. |
+
+# October2021 - Hearthstone Python Bot - https://github.com/evilusean/Hearthstone-Python-Click : 
+Plays the game 'Hearthstone: Battlegrounds' for me and collects in game currency while I sleep. Used daily for years. 
+
 ## October2021 - IBM-Capstone-Project - https://github.com/evilusean/IBM-Capstone-Final-Project :
 This repository contains various labs and projects related to the IBM Capstone Final Project. Below is a list of the files along with their links.
 
