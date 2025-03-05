@@ -90,6 +90,63 @@ All projects sorted by language (Python, JS, React, Next, Etc) :
 | **Nov 11, 2021**    | [Create WPM_TypingTest](https://github.com/evilusean/Pysean/commit/d3fea8c) | Created the WPM typing test script.          |
 | **Nov 11, 2021**    | [Create WriteFile](https://github.com/evilusean/Pysean/commit/3e5b65d)      | Implemented a function to write data to a file. |
 | **Nov 11, 2021**    | [Create OpenFile](https://github.com/evilusean/Pysean/commit/f6ff318)       | Implemented a function to open and read from a file. |
+| 2021-03-05 | AlarmClock.py | A Python script for creating an alarm clock application. |
+| 2023-05-05 | AutoTyper.py | A script that automatically types text at a specified interval. |
+| 2021-03-05 | BigCountDownSevSeg | A project for creating a big countdown timer using a seven-segment display. |
+| 2021-03-05 | BlackJack | A simple implementation of the Blackjack card game. |
+| 2022-03-05 | CharacterCount | A program that counts the number of characters in a given input. |
+| 2022-05-05 | CodeCompare.py | A script for comparing two pieces of code for differences. |
+| 2021-03-05 | ConnectFour | A console-based implementation of the Connect Four game. |
+| 2023-05-05 | ConvertAudioFormat-WMAtoMP3.sh | A shell script for converting audio files from WMA to MP3 format. |
+| 2022-05-05 | DicSeanAry | A dictionary-like data structure for managing words and definitions. |
+| 2021-03-05 | DiceRollSim | A simulation program for rolling dice and displaying results. |
+| 2021-03-05 | DigitalClock | A digital clock application implemented in Python. |
+| 2023-05-05 | EqualityStripper.py | A script that removes equality signs from strings. |
+| 2021-03-05 | FactorFinder | A program that finds and displays the factors of a given number. |
+| 2021-03-05 | FibonaccSean | A program that generates Fibonacci numbers. |
+| 2021-03-05 | FractalSierplinskiTriangle | A program that generates the Sierpinski triangle fractal. |
+| 2021-03-05 | Hangman.py | A console-based implementation of the Hangman word game. |
+| 2021-03-05 | HexBinaryCount | A program that counts hexadecimal and binary numbers. |
+| 2021-03-05 | LinkedInDisplayImageResize | A script for resizing LinkedIn display images. |
+| 2021-03-05 | MazeRunner2D | A 2D maze runner game implemented in Python. |
+| 2023-05-05 | MiscTools | A collection of miscellaneous tools for various tasks. |
+| 2021-03-05 | MondrianArt.py | A program that generates art inspired by Piet Mondrian. |
+| 2021-03-05 | MontyPythonSpam | A fun program related to Monty Python's "Spam" sketch. |
+| 2021-03-05 | MultiplicationTable | A program that generates a multiplication table for a given number. |
+| 2021-03-05 | NoBloatTools | A collection of lightweight tools for various tasks. |
+| 2021-03-05 | NumberGuess.py | A simple number guessing game implemented in Python. |
+| 2021-03-05 | OpenFile | A program for opening files in Python. |
+| 2021-03-05 | PowerBallLottery.py | A program that simulates a PowerBall lottery drawing. |
+| 2021-03-05 | PrimeNumbers | A program for generating prime numbers. |
+| 2023-05-05 | ProgressBar.py | A script for displaying a progress bar in the console. |
+| 2021-03-05 | QuadraticCalcPyPlot | A program for calculating and plotting quadratic equations. |
+| 2021-03-05 | Rainbow.py | A program that generates a rainbow effect in the console. |
+| 2021-03-05 | RandomInt | A program that generates random integers. |
+| 2021-03-05 | ReactSean.py | A script related to React, renamed from FastDraw.py. |
+| 2021-03-05 | RockPaperScissors | A console-based implementation of the Rock-Paper-Scissors game. |
+| 2021-03-05 | SevSeg Display Module | A project for controlling a seven-segment display module. |
+| 2021-03-05 | ShiningCarpetTessalaSean | A project for creating tessellated patterns. |
+| 2021-03-05 | SineMessage | A program that generates sine wave messages. |
+| 2021-03-05 | SnailRace | A simulation of a snail race. |
+| 2021-03-05 | SoroBanAbacus | A project related to the Soroban abacus. |
+| 2021-03-05 | Sudoku.py | A program for solving Sudoku puzzles. |
+| 2021-03-05 | Sudokupuzzles.txt | A text file containing Sudoku puzzles. |
+| 2021-03-05 | TextToASCIIBinaryEncoder | A program that encodes text to ASCII binary format. |
+| 2021-03-05 | TextToSpeech-pyttsx3 | A script for converting text to speech using the pyttsx3 library. |
+| 2021-03-05 | TicTacToe.py | A console-based implementation of the Tic Tac Toe game. |
+| 2021-03-05 | TowerOfHanoi.py | A program that solves the Tower of Hanoi puzzle. |
+| 2021-03-05 | WGetWebsiteDownloadPythonScript | A script for downloading entire websites using wget. |
+| 2021-03-05 | WPM.txt | A text file related to words per minute (WPM) typing tests. |
+| 2021-03-05 | WPMTypingTest | A program for testing typing speed in words per minute. |
+| 2023-05-05 | WhiteSpaceRemover.sh | A shell script for removing whitespace from files. |
+| 2021-03-05 | WikiWebsScrapingCountriesSizeAsia | A web scraping project for gathering data on countries in Asia. |
+| 2021-03-05 | WriteFile | A program for writing data to files in Python. |
+| 2021-03-05 | httpsanonymousplanet.org guide.html.html | A guide related to anonymous browsing. |
+| 2021-03-05 | rotatingCube.py | A program that creates a rotating cube visualization. |
+| 2021-03-05 | rotatingCubeTesseract.py | A program that visualizes a rotating tesseract (4D cube). |
+| 2021-03-05 | rotatingCubeTesseractMatrix.py | A program that uses matrices to visualize a rotating tesseract. |
+| 2021-03-05 | royal-Game-of-Ur.py | A Python implementation of the ancient Royal Game of Ur. |
+| 2021-03-05 | subprocess | A project related to the subprocess module in Python for executing shell commands. |
 
 ## MachineLearning - https://github.com/evilusean/MachineLearning :
 ### May2023 - CustomChatBot-TwitterAIChatBot-GPT3 - https://github.com/evilusean/MachineLearning/tree/main/CustomChatBot-GPT3 : 
