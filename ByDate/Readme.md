@@ -1,5 +1,25 @@
 All Projects Sorted by reverse chronological date</br>
 ### January2025 - FreeCodeCamp - Learn C# Programming – Full Course with Mini-Projects - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-C%23-Course-MiniProjects :
+| Program Name | Brief Summary |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Arrays-Sorting-Reversal-Clearing-IndexOf-Lists-Dicts | A project demonstrating various array operations, including sorting, reversing, and clearing elements. |
+| DataTypes | An exploration of different data types in C#, including their properties and usage. |
+| Exceptions-TryCatch-ErrorMsg-TryParse-Debug-LocalAutoWindow-Watch | A project focused on exception handling in C#, utilizing try-catch blocks and debugging techniques. |
+| Functions-Void-ReturnType-Params-Optional-Named-Out-Reference | Demonstrates the use of functions in C#, including void and return types, parameters, and optional arguments. |
+| HelloWorld | A simple "Hello, World!" program to illustrate the basic structure of a C# application. |
+| If-Switch-For-While-ConditionalOp | A project showcasing various control flow statements in C#, including if, switch, for, and while loops. |
+| Project1-Store-User-Data | A project that implements functionality to store and manage user data in a C# application. |
+| Project10-SumOfIntArray | Calculates the sum of integers in an array, demonstrating array manipulation and iteration. |
+| Project2-OddEven-Checker | A program that checks whether a number is odd or even, illustrating conditional logic. |
+| Project3-TimesTable | Generates a multiplication table for a given number, demonstrating loops and output formatting. |
+| Project4-FizzBuzz | Implements the classic FizzBuzz problem, showcasing conditional statements and loops. |
+| Project5-PrintStringReverse | A program that reverses a given string and prints it, demonstrating string manipulation. |
+| Project6-PasswordChecker | Checks the strength of a password based on certain criteria, illustrating string and conditional logic. |
+| Project7-OddEvenNumberSplit | Splits an array of numbers into odd and even arrays, demonstrating array manipulation. |
+| Project8-ArrayOfMultiples | Generates an array of multiples of a given number, showcasing loops and array creation. |
+| Project9-AreaOfTriangle | Calculates the area of a triangle based on user input, demonstrating mathematical operations and user input handling. |
+| String-Literal-Formatting-Interpolation-Concat-Empty-EqualsFunc-iterationLoop-IsNullOrEmptyFunc | Explores string formatting, interpolation, and various string functions in C#. |
+| Structures-Classes-ClassFuncs-ClassFields-ClassVariableScope-ClassProps-ClassToString | Demonstrates the use of classes and structures in C#, including methods, properties, and variable scope. |
 ### November2024 - FreeCodeCamp - Basics of Java Programming - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Java-Basics :
 ### October2024 - WaniKani Kanji - https://github.com/evilusean/Pysean/blob/main/Sean/JapaNaeS/1WaniKani%20KanjiList :
 ### October2024 - FreeCodeCamp - Devops - Learn Docker by Building a Node / Express / MongoDB / Redis App - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-DevOps-Docker-Node-Express-Redis-Mongo :
