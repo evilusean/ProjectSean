@@ -1,4 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
+### January2025 - FreeCodeCamp - Learn C# Programming – Full Course with Mini-Projects - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-C%23-Course-MiniProjects :
 ### November2024 - FreeCodeCamp - Basics of Java Programming - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Java-Basics :
 ### October2024 - WaniKani Kanji - https://github.com/evilusean/Pysean/blob/main/Sean/JapaNaeS/1WaniKani%20KanjiList :
 ### October2024 - FreeCodeCamp - Devops - Learn Docker by Building a Node / Express / MongoDB / Redis App - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-DevOps-Docker-Node-Express-Redis-Mongo :
