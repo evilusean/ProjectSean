@@ -181,6 +181,7 @@ https://evilusean.github.io/Trade-Offer/
 | (Syllabus) | Syllabus outlining the structure and topics covered in the PHP course. |
 | (readme.md) | Overview of the PHP course, including its objectives and learning outcomes. |
 ## January 2024 - FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries :
+https://www.freecodecamp.org/certification/Evilusean/javascript-algorithms-and-data-structures-v8 </br>
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | (Main Repository) | Overview of front-end development libraries including React, Redux, Bootstrap, and more. |
