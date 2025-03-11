@@ -177,6 +177,7 @@ https://evilusean.github.io/Trade-Offer/
 | (Syllabus) | Syllabus outlining the structure and topics covered in the PHP course. |
 | (readme.md) | Overview of the PHP course, including its objectives and learning outcomes. |
 ## January 2024 - FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-React-Redux-SPA-Bootstrap-Front-End-Development-Libraries :
+https://www.freecodecamp.org/certification/Evilusean/javascript-algorithms-and-data-structures-v8 </br>
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | (Main Repository) | Overview of front-end development libraries including React, Redux, Bootstrap, and more. |
@@ -187,6 +188,10 @@ https://evilusean.github.io/Trade-Offer/
 | (1.5 Redux) | Learn the fundamentals of Redux for managing application state in a predictable way. |
 | (1.6 React-Redux) | Combining React with Redux to manage state in React applications. |
 | (1.7 Random Quote Machine) | A project to create a random quote generator using React and APIs. |
+| (1.8 MarkDown Previewer) | Allows you to type markdown and updates in real time a readable markdown version of it. |
+| (1.9 Drum Machine) | A Machine that lets you play drums |
+| (2.0 Javascript Calculator) | A Calculator built in Javascript |
+| (2.1 25+5Clock ) | A Break timer clock the is a pomodoro timer - work for 25 minutes, break for 5 |
 ## December2023 - FreeCodeCamp : JavaScript Algorithms and Data Structures - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Javascript-Algos-DataStructures :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
