@@ -195,7 +195,7 @@ https://www.freecodecamp.org/certification/Evilusean/javascript-algorithms-and-d
 | (1.8 MarkDown Previewer) | Allows you to type markdown and updates in real time a readable markdown version of it. |
 | (1.9 Drum Machine) | A Machine that lets you play drums |
 | (2.0 Javascript Calculator) | A Calculator built in Javascript |
-| (2.1 25+5Clock ) | A Break timer click the is a pomodoro timer - work for 25 minutes, break for 5 |
+| (2.1 25+5Clock ) | A Break timer clock the is a pomodoro timer - work for 25 minutes, break for 5 |
 ## December2023 - FreeCodeCamp : JavaScript Algorithms and Data Structures - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Javascript-Algos-DataStructures :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
