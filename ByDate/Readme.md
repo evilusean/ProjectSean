@@ -1,6 +1,12 @@
 All Projects Sorted by reverse chronological date</br>
 ### March2025 - FreeCodeCamp - RelationalDatabasesCertificate-Git-Bash-PostgreSQL - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SQL-JS-Node-RelationalDatabases-Certificate : 
-
+| Project | Description |
+|---------|-------------|
+| [Celestial Bodies Database](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SQL-JS-Node-RelationalDatabases-Certificate/CelestialBodiesDatabase) | PostgreSQL database of celestial objects including galaxies, stars, planets and moons with their physical properties and relationships |
+| [World Cup Database](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SQL-JS-Node-RelationalDatabases-Certificate/WorldCupDatabase) | Database tracking World Cup matches and teams with scripts to insert data and query tournament statistics |
+| [Salon Appointment Scheduler](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SQL-JS-Node-RelationalDatabases-Certificate/SalonAppointmentScheduler) | Interactive bash script for managing salon appointments with customer and service tracking |
+| [Periodic Table Database](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SQL-JS-Node-RelationalDatabases-Certificate/PeriodicTableDatabase) | PostgreSQL database of chemical elements with properties and a bash script to query element information |
+| [Number Guessing Game](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-SQL-JS-Node-RelationalDatabases-Certificate/NumberGuessingGame) | Interactive number guessing game that tracks player statistics in a PostgreSQL database |
 ### February2025 - FreeCodeCamp - JS-Phaser-Express-Sockets Multiplayer Card Game - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Phaser-Express-Socket.IO-MultiplayerCardGame :
 | Program Name | Brief Summary |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
