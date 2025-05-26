@@ -1,4 +1,6 @@
 All Projects Sorted by reverse chronological date</br>
+### May2025 FreeCodeCamp - AI-Note Taking App - NextJS - Supabase - Prisma- ShadCN - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-NextJS-Supabase-Prisma-ShadCN_AI-NoteTaking-App :
+Build a full-stack note-taking app using Next.js 15's App Router, Supabase for authentication and database management, Prisma ORM for efficient data handling, and shadcn for clean, modern styling. This project also integrates the OpenAI API, allowing users to engage with their notes through AI-generated responses.
 ### May2025 - FreeCodeCamp - Supabase + PostgreSQL (Firebase Alternative) - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Supabase :
 Create a project on Supabase, Tables, RLS (Row Level Security), Authentication, User management, Recover password, E-mails templates, URL Configuration, Read-insert-delete, Subscriptions, Relations, Functions, Triggers, Schemas, Storage, Logs,
  Extensions, Realtime, Edge-functions, Webhooks, Self-host or Local dev, Migrations
