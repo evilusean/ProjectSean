@@ -1,4 +1,18 @@
 All Projects Sorted by reverse chronological date</br>
+### June2025 - FreeCodeCamp - BackEndDevelopmentAndAPIsCertificate - Node-Express-MongoDB - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-BackendAPI-Cert-Node-Express-MongoDB-Mongoose :
+
+| Course/Project Category | Description |
+|-------------------------|-------------|
+| **Core Concepts** | Learned fundamental back-end development principles using JavaScript, including the concept of microservices. |
+| [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm) | Explored `npm` (Node Package Manager) for installing, creating, and sharing JavaScript packages. Covered `package.json` management and dependency handling for Node.js projects. |
+| [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express) | Built server-side applications with Node.js, focusing on its built-in modules. Utilized the Express.js framework for creating web servers, handling routing, and managing HTTP requests and responses. |
+| [MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose) | Gained expertise in NoSQL databases with MongoDB. Used Mongoose, an ODM library, to interact with MongoDB via JavaScript objects, define schemas, and perform CRUD operations (Create, Read, Update, Delete) on documents. |
+| **Certification Projects** | Applied learned skills to build 5 distinct microservice APIs, demonstrating practical back-end development capabilities. |
+| [Timestamp Microservice](https://github.com/your-username/your-repo-for-this-certification/tree/main/TimestampMicroservice) | Developed an API endpoint that parses and returns timestamp data based on user input. |
+| [Request Header Parser Microservice](https://github.com/your-username/your-repo-for-this-certification/tree/main/RequestHeaderParserMicroservice) | Created a microservice to analyze and return information from HTTP request headers. |
+| https://www.youtube.com/watch?v=VP_FOwmGH44(https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Node-BackEndDev-APIs-Certificate/URLShortenerMicroservice) | Implemented a service to shorten URLs and redirect to the original links. |
+| [Exercise Tracker](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Node-BackEndDev-APIs-Certificate/ExerciseTracker) | Built an API to track user exercise logs, including descriptions, durations, and dates. |
+| [File Metadata Microservice](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Node-BackEndDev-APIs-Certificate/FileMetadataMicroservice) | Developed a microservice to upload files and return their metadata, such as name, type, and size. |
 ### May2025 FreeCodeCamp - AI-Note Taking App - NextJS - Supabase - Prisma- ShadCN - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-NextJS-Supabase-Prisma-ShadCN_AI-NoteTaking-App :
 Build a full-stack note-taking app using Next.js 15's App Router, Supabase for authentication and database management, Prisma ORM for efficient data handling, and shadcn for clean, modern styling. This project also integrates the OpenAI API, allowing users to engage with their notes through AI-generated responses.
 ### May2025 - FreeCodeCamp - Supabase + PostgreSQL (Firebase Alternative) - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-Supabase :
