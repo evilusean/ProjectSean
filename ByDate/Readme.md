@@ -2,7 +2,8 @@ All Projects Sorted by reverse chronological date</br>
 ### July2025 - FoundAI-Sean - JS-CSS-AI - https://github.com/evilusean/evilusean.github.io/tree/main/FoundAI-Sean : 
 https://evilusean.github.io/FoundAI-Sean/ </br>
 
-FoundAI-Sean is a productivity tool designed to streamline your workflow when interacting with AI language models. </br>
+FoundAI-Sean is a productivity tool designed to streamline your workflow when interacting with AI language models. 
+The app allows you to save your AI Queries so you can get consistent results and formatting without losing context. </br>
 Write and save your custom preamble for AI queries. </br>
 Combine your preamble and search query in real time. </br>
 Copy the combined prompt or generate a bookmarkable URL with your parameters. </br>
