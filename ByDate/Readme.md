@@ -1,4 +1,12 @@
 All Projects Sorted by reverse chronological date</br>
+### July2025 - FoundAI-Sean - JS-CSS-AI : 
+
+FoundAI-Sean is a productivity tool designed to streamline your workflow when interacting with AI language models. </br>
+Write and save your custom preamble for AI queries. </br>
+Combine your preamble and search query in real time. </br>
+Copy the combined prompt or generate a bookmarkable URL with your parameters. </br>
+Quickly open Gemini AI and paste your query for consistent results. </br>
+
 ### June2025 - FreeCodeCamp - BackEndDevelopmentAndAPIsCertificate - Node-Express-MongoDB - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-BackendAPI-Cert-Node-Express-MongoDB-Mongoose :
 
 | Course/Project Category | Description |
