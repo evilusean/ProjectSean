@@ -1,5 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
-### July2025 - FoundAI-Sean - JS-CSS-AI : 
+### July2025 - FoundAI-Sean - JS-CSS-AI - https://github.com/evilusean/evilusean.github.io/tree/main/FoundAI-Sean : 
 https://evilusean.github.io/FoundAI-Sean/ </br>
 
 FoundAI-Sean is a productivity tool designed to streamline your workflow when interacting with AI language models. </br>
