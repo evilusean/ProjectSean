@@ -1,4 +1,15 @@
 All Projects Sorted by reverse chronological date</br>
+### August2025 - FreeCodeCamp - Quality Assurance Certificate - Node-Express-Chai - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance
+Course/Project Category	Description
+Quality Assurance and Testing with Chai	Learned to write tests with Chai, a JavaScript testing library, to ensure program functionality. Covered assertions, deep equality, truthiness, and testing APIs.
+Advanced Node and Express	Built a chat application to learn advanced backend concepts, including using Passport for authentication, Pug for templates, and Socket.io for real-time communication. Also covered password hashing for security.
+Certification Projects	Applied all skills to build and test five web applications, demonstrating proficiency in quality assurance and backend development.
+Metric-Imperial Converter	Developed a converter to switch between metric and imperial measurements, with tests to handle various input and edge cases.
+Issue Tracker	Created a full-stack issue tracker application, including a REST API and tests to ensure proper issue management.
+Personal Library	Built an API for managing a personal book library, with tests for adding, viewing, and deleting books and their comments.
+Sudoku Solver	Implemented a Sudoku solver with an API that can solve a given puzzle and validate solutions. Added tests functional and unit tests. 
+American British Translator	Developed a translator service to convert text between American and British English, with tests to ensure correct translations.
+
 ### July2025 - FoundAI-Sean - JS-CSS-AI - https://github.com/evilusean/evilusean.github.io/tree/main/FoundAI-Sean : 
 https://evilusean.github.io/FoundAI-Sean/ </br>
 
