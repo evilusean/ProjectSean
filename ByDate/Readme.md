@@ -2,8 +2,8 @@ All Projects Sorted by reverse chronological date</br>
 ### August2025 - FreeCodeCamp - Quality Assurance Certificate - Node-Express-Chai - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance
 | Course/Project Category | Description |
 |-------------------------|-------------|
-| **Quality Assurance and Testing with Chai** | Learned to write tests with Chai, a JavaScript testing library, to ensure program functionality. Covered assertions, deep equality, truthiness, and testing APIs. |
-| **Advanced Node and Express** | Built a chat application to learn advanced backend concepts, including using Passport for authentication, Pug for templates, and Socket.io for real-time communication. Also covered password hashing for security. |
+| [**Quality Assurance and Testing with Chai**](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/boilerplate-mochachai) | Learned to write tests with Chai, a JavaScript testing library, to ensure program functionality. Covered assertions, deep equality, truthiness, and testing APIs. |
+| [**Advanced Node and Express**](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/boilerplate-advancednode) | Built a chat application to learn advanced backend concepts, including using Passport for authentication, Pug for templates, and Socket.io for real-time communication. Also covered password hashing for security. |
 | **Quality Assurance Projects** | Applied all skills to build and test five web applications, demonstrating proficiency in quality assurance and backend development. |
 | Metric-Imperial Converter | Developed a converter to switch between metric and imperial measurements, with tests to handle various input and edge cases. |
 | Issue Tracker | Created a full-stack issue tracker application, including a REST API and tests to ensure proper issue management. |
