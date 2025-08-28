@@ -5,11 +5,11 @@ All Projects Sorted by reverse chronological date</br>
 | [**Quality Assurance and Testing with Chai**](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/boilerplate-mochachai) | Learned to write tests with Chai, a JavaScript testing library, to ensure program functionality. Covered assertions, deep equality, truthiness, and testing APIs. |
 | [**Advanced Node and Express**](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/boilerplate-advancednode) | Built a chat application to learn advanced backend concepts, including using Passport for authentication, Pug for templates, and Socket.io for real-time communication. Also covered password hashing for security. |
 | **Quality Assurance Projects** | Applied all skills to build and test five web applications, demonstrating proficiency in quality assurance and backend development. |
-| Metric-Imperial Converter | Developed a converter to switch between metric and imperial measurements, with tests to handle various input and edge cases. |
-| Issue Tracker | Created a full-stack issue tracker application, including a REST API and tests to ensure proper issue management. |
-| Personal Library | Built an API for managing a personal book library, with tests for adding, viewing, and deleting books and their comments. |
-| Sudoku Solver | Implemented a Sudoku solver with an API that can solve a given puzzle and validate solutions. |
-| American British Translator | Developed a translator service to convert text between American and British English, with tests to ensure correct translations. |
+| [Metric-Imperial Converter](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/Project1-MetricImpConverter) | Developed a converter to switch between metric and imperial measurements, with tests to handle various input and edge cases. |
+| [Issue Tracker](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/Project2-IssueTracker) | Created a full-stack issue tracker application, including a REST API and tests to ensure proper issue management. |
+| [Personal Library](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/Project2-IssueTracker) | Built an API for managing a personal book library, with tests for adding, viewing, and deleting books and their comments. |
+| [Sudoku Solver](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/Project4-SudokuSolver) | Implemented a Sudoku solver with an API that can solve a given puzzle and validate solutions. |
+| [American British Translator](https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance/Project5-AmericanToBritishTranslator) | Developed a translator service to convert text between American and British English, with tests to ensure correct translations. |
 
 ### July2025 - FoundAI-Sean - JS-CSS-AI - https://github.com/evilusean/evilusean.github.io/tree/main/FoundAI-Sean : 
 https://evilusean.github.io/FoundAI-Sean/ </br>
