@@ -30,7 +30,7 @@ Built a fully-functional Medium clone using Laravel PHP framework. Implemented c
 - Performance optimization with efficient database queries and pagination
 - Real-time UI updates without page refresh
 </br>
-[Full Summary : https://github.com/evilusean/CourseraGoogleFCC/blob/main/FCC-PHP-Laraval-MediumClone/FCC-Laravel-Medium-Clone-Summary.md](https://github.com/evilusean/CourseraGoogleFCC/blob/main/FCC-PHP-Laraval-MediumClone/FCC-Laravel-Medium-Clone-Summary.md)
+Full Summary : https://github.com/evilusean/CourseraGoogleFCC/blob/main/FCC-PHP-Laraval-MediumClone/FCC-Laravel-Medium-Clone-Summary.md
 
 ### August2025 - FreeCodeCamp - Quality Assurance Certificate - Node-Express-Chai - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance
 | Course/Project Category | Description |
