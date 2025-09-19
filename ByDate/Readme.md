@@ -1,4 +1,35 @@
 All Projects Sorted by reverse chronological date</br>
+### September2025 - FreeCodeCamp - FreeCodeCamp -PHP-Laravel-MediumClone https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP-Laraval-MediumClone
+
+Built a fully-functional Medium clone using Laravel PHP framework. Implemented core social publishing platform features including user authentication, post management, social interactions, and advanced content filtering. Demonstrates proficiency in modern PHP development, database design, and full-stack web application architecture.
+
+**Technologies:** PHP 8.4, Laravel 12.x, SQLite, Laravel Breeze, Blade Templates, Tailwind CSS, Alpine.js, Vite, Spatie Media Library, Composer, NPM, Pest Testing
+
+**Key Features:**
+- Complete authentication system with registration, login, email verification, password reset
+- Post creation with rich text editor, image uploads, editing, deletion, draft system
+- Social features: follow/unfollow users, like/unlike posts, user profiles, following feed
+- Advanced functionality: pagination, category filtering, search, responsive design, performance optimization
+- Image processing: upload, resize, optimize with Spatie Media Library
+- Database relationships: users, posts, categories, follows, likes with proper foreign keys
+
+**Skills Learned:**
+- Laravel MVC architecture, Eloquent ORM, migrations, seeders, factories, Artisan CLI
+- Database design with relational structures and query optimization
+- Blade templating, component architecture, layout systems
+- Security implementation: authentication, authorization, CSRF protection, input validation
+- Linux development environment setup (Arch Linux with PHP/Composer/Node)
+- Modern frontend development with Tailwind CSS and Alpine.js
+- Build tools configuration with Vite for asset compilation and hot reloading
+- Package management with Composer and NPM
+
+**Technical Challenges:**
+- Environment setup on Arch Linux with PHP extensions and Node version management
+- Complex many-to-many relationships for social features
+- Image processing and file upload security
+- Performance optimization with efficient database queries and pagination
+- Real-time UI updates without page refresh
+
 ### August2025 - FreeCodeCamp - Quality Assurance Certificate - Node-Express-Chai - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance
 | Course/Project Category | Description |
 |-------------------------|-------------|
