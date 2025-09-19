@@ -1,5 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
-### September2025 - FreeCodeCamp - FreeCodeCamp -PHP-Laravel-MediumClone https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP-Laraval-MediumClone
+## September2025 - FreeCodeCamp - FreeCodeCamp -PHP-Laravel-MediumClone https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP-Laraval-MediumClone
 
 Built a fully-functional Medium clone using Laravel PHP framework. Implemented core social publishing platform features including user authentication, post management, social interactions, and advanced content filtering. Demonstrates proficiency in modern PHP development, database design, and full-stack web application architecture.
 
@@ -29,6 +29,8 @@ Built a fully-functional Medium clone using Laravel PHP framework. Implemented c
 - Image processing and file upload security
 - Performance optimization with efficient database queries and pagination
 - Real-time UI updates without page refresh
+</br>
+[Full Summary : https://github.com/evilusean/CourseraGoogleFCC/blob/main/FCC-PHP-Laraval-MediumClone/FCC-Laravel-Medium-Clone-Summary.md](https://github.com/evilusean/CourseraGoogleFCC/blob/main/FCC-PHP-Laraval-MediumClone/FCC-Laravel-Medium-Clone-Summary.md)
 
 ### August2025 - FreeCodeCamp - Quality Assurance Certificate - Node-Express-Chai - https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-JS-Chai-Node-Express-TestingQualityAssurance
 | Course/Project Category | Description |
