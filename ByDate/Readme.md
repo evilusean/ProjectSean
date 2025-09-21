@@ -1,4 +1,8 @@
 All Projects Sorted by reverse chronological date</br>
+## Septemeber2025 - Markdown Previewer (with mathematical formulae) : https://evilusean.github.io/Markdown/
+
+**Real-time markdown editor** with **MathJax mathematical formulas** ($E=mc^2$, $$\frac{a}{b}$$), built using **HTML5/CSS3/JavaScript** + **Marked.js** for parsing. Features **22 template categories** via dropdowns (11 markdown syntax + 11 math formulas covering basic operations to advanced physics/chemistry/engineering), **URL sharing**, **copy functionality**, and **responsive design**. Static site perfect for **GitHub Pages** deployment.
+
 ## September2025 - FreeCodeCamp - FreeCodeCamp -PHP-Laravel-MediumClone https://github.com/evilusean/CourseraGoogleFCC/tree/main/FCC-PHP-Laraval-MediumClone
 
 Built a fully-functional Medium clone using Laravel PHP framework. Implemented core social publishing platform features including user authentication, post management, social interactions, and advanced content filtering. Demonstrates proficiency in modern PHP development, database design, and full-stack web application architecture.
