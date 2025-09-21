@@ -822,4 +822,5 @@ It's my first day, I should of centralized these, but my first 10 commits are re
 ## Before I started 'Learning to Code' :
 CompSci Class HS = 2006ish?</br>
 WoW AFK Farm AV Bot/AutoClicker = 2004ish? </br>
+Starcraft Map Maker (had basic programming for events) = 2002ish?</br>
 Neopets HTML Web Storefront - I was slinging NFT's before it was cool, and then not cool again = 2003ish?</br>
