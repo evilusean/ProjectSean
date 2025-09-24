@@ -1,4 +1,8 @@
 All Projects Sorted by reverse chronological date</br>
+## September2025 - TabulaSean - Chromium Extension : https://github.com/evilusean/Pysean/tree/main/Chrome-ExtenSeans/TabulaSean-ChromiumExtenSean
+
+TabulaSean is a Chromium extension that lets you save all your open tabs (grouped by window) to a text file and restore them later, even on another device, with no cloud or Google account required.
+
 ## Septemeber2025 - Markdown Previewer (with mathematical formulae) : https://evilusean.github.io/Markdown/
 
 **Real-time markdown editor** with **MathJax mathematical formulas** ($E=mc^2$, $$\frac{a}{b}$$), built using **HTML5/CSS3/JavaScript** + **Marked.js** for parsing. Features **22 template categories** via dropdowns (11 markdown syntax + 11 math formulas covering basic operations to advanced physics/chemistry/engineering), **URL sharing**, **copy functionality**, and **responsive design**. Static site perfect for **GitHub Pages** deployment.
