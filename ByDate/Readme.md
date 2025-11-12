@@ -1,5 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
-## November2025 - https://evilusean.github.io/Prime-FactorizeASean
+## November2025 - Prime-FactorizeASean : https://evilusean.github.io/Prime-FactorizeASean
 
 A compact web tool for exploring prime numbers. It provides an interactive prime factorization tree, an nth-prime finder, and an animated screensaver that visualizes primes and their multiples.
 - Prime Factorization Tree
