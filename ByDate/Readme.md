@@ -1,4 +1,17 @@
 All Projects Sorted by reverse chronological date</br>
+## November2025 - https://evilusean.github.io/Prime-FactorizeASean
+
+A compact web tool for exploring prime numbers. It provides an interactive prime factorization tree, an nth-prime finder, and an animated screensaver that visualizes primes and their multiples.
+- Prime Factorization Tree
+  - Enter a number to see its factorization broken down into a visual ASCII tree.
+  - Shows the full factorization path until all leaves are prime.
+- Find Nth Prime
+  - Input a position (n) to compute the nth prime number.
+  - Displays progress for large computations.
+- Animated Prime Multiples Screensaver
+  - Falling visual elements showing "prime × multiplier = result".
+  - Customizable prime range and animation speed; toggle on/off.
+ 
 ## September2025 - TabulaSean - Chromium Extension : https://github.com/evilusean/Pysean/tree/main/Chrome-ExtenSeans/TabulaSean-ChromiumExtenSean
 
 TabulaSean is a Chromium extension that lets you save all your open tabs (grouped by window) to a text file and restore them later, even on another device, with no cloud or Google account required.
