@@ -3,14 +3,16 @@ All Projects Sorted by reverse chronological date</br>
 
 A compact web tool for exploring prime numbers. It provides an interactive prime factorization tree, an nth-prime finder, and an animated screensaver that visualizes primes and their multiples.
 - Prime Factorization Tree
-  - Enter a number to see its factorization broken down into a visual ASCII tree.
+  - Enter a number to see its factorization broken down into a visual ASCII tree. Now animated and coloured. Autoscaling for very large factors.
   - Shows the full factorization path until all leaves are prime.
+  - Can also do Polynomials, Rational Expressions, and fractions with Mathjax formatting
 - Find Nth Prime
   - Input a position (n) to compute the nth prime number.
   - Displays progress for large computations.
 - Animated Prime Multiples Screensaver
   - Falling visual elements showing "prime × multiplier = result".
   - Customizable prime range and animation speed; toggle on/off.
+  - Clickable game to find factors of the dropping Primes
  
 ## September2025 - TabulaSean - Chromium Extension : https://github.com/evilusean/Pysean/tree/main/Chrome-ExtenSeans/TabulaSean-ChromiumExtenSean
 
