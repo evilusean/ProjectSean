@@ -1,4 +1,37 @@
 All Projects Sorted by reverse chronological date</br>
+## December2025 - ChemISean - Periodic Tables Explorer (Quiz, Screensaver, Walter Russel App) - https://evilusean.github.io/ChemISean :
+A comprehensive interactive periodic table for university-level chemistry education. Features dual visualization modes, chemical property analysis, and advanced learning tools. Fully responsive with dark/light themes.
+- **Dual Table Views**
+  - Classic IUPAC layout with all 118 elements, group/period labels
+  - Walter Russell's 1926 helical "Ten Octaves of Integrating Light" design
+- **Chemical Properties**
+  - Electronegativity (Pauling), ionization energy, atomic radius, oxidation states
+  - Electron configuration, discovery date, detailed summaries
+  - Complete data for all elements with Wikipedia links
+- **Trends Visualization**
+  - Toggleable heatmaps for electronegativity, ionization energy, atomic radius
+  - Color-coded (blue=low, red=high) with dynamic legends
+  - Period-based graphs showing property trends
+- **Comparison Mode**
+  - Side-by-side element comparison with VS layout
+  - Compare all properties between any two elements
+- **Quiz Mode**
+  - Progressive reveal: click for atomic number → symbol → full info
+  - Works with filters for targeted study
+- **Screensaver Mode**
+  - Automated element quiz with speed controls (slow/normal/fast)
+  - Respects active filters, highlights elements on table
+- **Advanced Filtering**
+  - Multi-select categories (10 types), metal/nonmetal/metalloid
+  - Block filter (s, p, d, f), atomic number range
+  - All filters affect quiz and screensaver modes
+- **Study Tools**
+  - Save elements with spacebar (during screensaver or hover)
+  - Export saved list, persistent storage
+  - Live element counter
+Perfect for chemistry students and educators seeking deep understanding of periodic trends and element properties.
+
+
 ## November2025 - Prime-FactorizeASean : https://evilusean.github.io/Prime-FactorizeASean
 
 A compact web tool for exploring prime numbers. Responsive Design. Learning Game, Screensaver. It provides an interactive prime factorization tree, an nth-prime finder, and an animated screensaver that visualizes primes and their multiples.
