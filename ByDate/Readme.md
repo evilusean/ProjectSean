@@ -47,7 +47,7 @@ A compact web tool for exploring prime numbers. Responsive Design. Learning Game
   - Customizable prime range and animation speed; toggle on/off.
   - Clickable game to find factors of the dropping Primes
  
-## September2025 - TabulaSean - Chromium Extension : https://github.com/evilusean/Pysean/tree/main/Chrome-ExtenSeans/TabulaSean-ChromiumExtenSean
+## October2025 - TabulaSean - Chromium Extension : https://github.com/evilusean/Pysean/tree/main/Chrome-ExtenSeans/TabulaSean-ChromiumExtenSean
 
 TabulaSean is a Chromium extension that lets you save all your open tabs (grouped by window) to a text file and restore them later, even on another device, with no cloud or Google account required.
 
