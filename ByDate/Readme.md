@@ -1,5 +1,5 @@
 All Projects Sorted by reverse chronological date</br>
-## December2025 - ChemISean - Periodic Tables Explorer (Quiz, Screensaver, Walter Russel App) - https://evilusean.github.io/ChemISean :
+## December2025 - ChemISean - Periodic Tables Explorer (Quiz, Screensaver, Walter Russell App) - https://evilusean.github.io/ChemISean :
 A comprehensive interactive periodic table for university-level chemistry education. Features dual visualization modes, chemical property analysis, and advanced learning tools. Fully responsive with dark/light themes.
 - **Dual Table Views**
   - Classic IUPAC layout with all 118 elements, group/period labels
