@@ -46,6 +46,9 @@ A compact web tool for exploring prime numbers. Responsive Design. Learning Game
   - Falling visual elements showing "prime × multiplier = result".
   - Customizable prime range and animation speed; toggle on/off.
   - Clickable game to find factors of the dropping Primes
+
+## November 2025 - Algebra 2 - https://github.com/evilusean/Khan/tree/main/Algebra/Algebra%202 :
+Sets & interval notation → linear/absolute value equations & inequalities (1D/2D) → graphing lines (slope, all forms, parallel/perp) → relations, functions, variation → systems of linear equations (2/3 vars: graphing, substitution, elimination, Gaussian) & systems of inequalities → exponent rules → polynomials (operations, long/synthetic division) → every factoring technique (GCF, grouping, trinomials, AC method, cubes, substitution) → rational expressions (simplify, ±×÷, complex fractions, equations) → radicals (simplify, rationalize, operations, distance formula, radical equations) → complex numbers → quadratics (square-root property, completing square, quadratic formula, discriminant, vertex form, parabolas, quadratic/rational inequalities) → conic sections (circles, ellipses, hyperbolas: standard/general form, features) → non-linear systems (substitution/elimination, up to 4 points) & non-linear inequalities (test points, solid/dashed) → inverse functions → exponential & logarithmic functions (graphing, properties, change of base, solving exp/log equations) → function composition & transformations. You now own everything from basic algebra review to full conic mastery — ready for Pre-Calculus!
  
 ## October2025 - TabulaSean - Chromium Extension : https://github.com/evilusean/Pysean/tree/main/Chrome-ExtenSeans/TabulaSean-ChromiumExtenSean
 
