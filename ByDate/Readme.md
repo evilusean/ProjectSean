@@ -1,4 +1,56 @@
 All Projects Sorted by reverse chronological date</br>
+## January2025 - Sesh Seans - Workout/Study Tracker and Timer - https://evilusean.github.io/Sesh-Seans :
+A comprehensive productivity app integrating workout tracking, Pomodoro study sessions, and alarm functionality with Google Sheets sync. Features multiple independent timers, 60+ pre-configured exercises with descriptions, and automatic data organization. Fully responsive with dark red theme.
+
+- **Workout Tracking**
+  - 60+ pre-configured exercises across 6 categories (Abs, Pull-up Bar, Bodyweight, Dumbbells, Isometric, Seated)
+  - Detailed exercise descriptions and instructions for proper form
+  - Custom exercise creation with category sorting
+  - Auto-set workout timer based on exercise defaults
+  - Update exercise defaults and manage exercise library
+  - Delete last entry functionality for quick corrections
+
+- **Google Sheets Integration**
+  - Secure OAuth authentication with Google Identity Services
+  - Auto-creates yearly spreadsheets: `[YEAR]-Sesh-Seans-Workouts` and `[YEAR]-Sesh-Seans-Pomodoro`
+  - Monthly sheet organization with automatic day separators
+  - Real-time sync with timestamp logging
+  - Today's log display for both workouts and study sessions
+  - Direct links to view/edit spreadsheets
+
+- **Multiple Independent Timers**
+  - Interval Timer: Continuous repeating timer (default 15 min) for workout intervals
+  - Workout Timer: Per-exercise countdown (default 30 sec) with auto-set from exercise defaults
+  - Pomodoro Timer: Study/break cycles (default 20/5 min) with auto-switching
+  - Alarm Clock: Dual mode (set time or countdown) with full-screen modal
+  - All timers run simultaneously with unique audio cues
+
+- **Pomodoro Study Tracker**
+  - Separate spreadsheet for study session tracking
+  - Pre-configured subjects (Programming, Math, Reading, Writing) plus custom
+  - Configurable study/break durations
+  - Session notes for tracking work progress
+  - Unique sounds for study/break transitions
+  - Today's sessions display with delete last functionality
+
+- **Alarm Clock**
+  - Set Time mode: Specific hour:minute (24-hour format)
+  - Countdown mode: Minutes and seconds from now
+  - Full-screen pulsing modal with shaking animation
+  - Continuous loud alarm (loops every 2 seconds)
+  - Manual dismiss required to stop
+
+- **User Experience**
+  - Collapsible sections (Workout, Pomodoro, Alarm) for clean interface
+  - Color-coded sections: Red (Workout/Alarm), Green (Pomodoro)
+  - Fully responsive design for desktop, tablet, mobile
+  - Dark red gradient theme with glowing effects
+  - Persistent session with automatic token refresh
+  - Real-time exercise filtering by category
+
+Perfect for fitness enthusiasts and students seeking integrated workout and study tracking with powerful timer functionality and automatic Google Sheets organization.
+
+
 ## December2025 - ChemISean - Periodic Tables Explorer (Quiz, Screensaver, Walter Russell App) - https://evilusean.github.io/ChemISean :
 A comprehensive interactive periodic table for university-level chemistry education. Features dual visualization modes, chemical property analysis, and advanced learning tools. Fully responsive with dark/light themes.
 - **Dual Table Views**
