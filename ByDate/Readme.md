@@ -1,3 +1,14 @@
+## February2025 - GreeneMath - Trigonometry (Full Course) - https://github.com/evilusean/Khan/blob/main/Trig-PreCalc/GM-Trigonometry.md :
+
+This course covers the fundamental and advanced principles of trigonometry, focusing on the relationships between angles and side lengths in triangles, the unit circle, and trigonometric functions. Key areas of study include:
+
+* **Right Triangle Trigonometry**: Definitions of Sine, Cosine, and Tangent (SOH CAH TOA) and their applications in solving for missing sides and angles.
+* **The Unit Circle**: Extending trigonometric functions to all real numbers, understanding radians versus degrees, and identifying coordinates on the unit circle.
+* **Trigonometric Identities**: Utilizing Pythagorean identities ($sin^2\theta + cos^2\theta = 1$), reciprocal identities, and angle sum/difference formulas to simplify expressions.
+* **Graphing Functions**: Analyzing the amplitude, period, phase shift, and midline of Sine and Cosine waves.
+* **Law of Sines and Cosines**: Solving non-right (oblique) triangles using the formulas $\frac{a}{sin A} = \frac{b}{sin B}$ and $c^2 = a^2 + b^2 - 2ab \cos(C)$.
+* **Inverse Trigonometry**: Finding angle measures using $arcsin$, $arccos$, and $arctan$ within restricted domains.
+
 ## February2025 - Pic-MetaData-Ripper - https://evilusean.github.io/Pic-MetaData-Ripper/ :
 This application extracts and displays comprehensive EXIF metadata from uploaded images using the `exif-js` library.
 
@@ -106,7 +117,6 @@ A comprehensive interactive periodic table for university-level chemistry educat
   - Export saved list, persistent storage
   - Live element counter
 Perfect for chemistry students and educators seeking deep understanding of periodic trends and element properties.
-
 
 ## November2025 - Prime-FactorizeASean : https://evilusean.github.io/Prime-FactorizeASean
 
