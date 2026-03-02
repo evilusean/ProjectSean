@@ -1,3 +1,6 @@
+## February2025 - Pic-MetaData-StRipper - https://evilusean.github.io/Pic-MetaData-StRipper/ :
+This tool protects user privacy by removing all identifying EXIF metadata from images before download, utilizing `exif-js` and `canvas` for processing.
+
 ## January2025 - Sesh Seans - Workout/Study Tracker and Timer - https://evilusean.github.io/Sesh-Seans :
 
 A comprehensive productivity app integrating workout tracking, Pomodoro study sessions, and alarm functionality with Google Sheets sync. Features multiple independent timers, 108+ pre-configured exercises with descriptions, workout mode with pre-defined routines, and automatic data organization. Fully responsive with dark red theme.
