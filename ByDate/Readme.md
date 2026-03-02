@@ -1,4 +1,4 @@
-## Pic-MetaData-Ripper - https://evilusean.github.io/Pic-MetaData-Ripper/ :
+## February2025 - Pic-MetaData-Ripper - https://evilusean.github.io/Pic-MetaData-Ripper/ :
 This application extracts and displays comprehensive EXIF metadata from uploaded images using the `exif-js` library.
 
 ## February2025 - Pic-MetaData-StRipper - https://evilusean.github.io/Pic-MetaData-StRipper/ :
