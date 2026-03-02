@@ -1,4 +1,4 @@
-## February2025 - GreeneMath - Trigonometry (Full Course) - https://github.com/evilusean/Khan/blob/main/Trig-PreCalc/GM-Trigonometry.md :
+## February2025 - GreeneMath - Trigonometry - https://github.com/evilusean/Khan/blob/main/Trig-PreCalc/GM-Trigonometry.md :
 
 This course covers the fundamental and advanced principles of trigonometry, focusing on the relationships between angles and side lengths in triangles, the unit circle, and trigonometric functions. Key areas of study include:
 
