@@ -1,4 +1,42 @@
-## February2025 - GreeneMath - Trigonometry - https://github.com/evilusean/Khan/blob/main/Trig-PreCalc/GM-Trigonometry.md :
+## March2026 - Trigonometry - Unit CirculaSean - https://evilusean.github.io/Math/Unit-CirculaSean/index.html :
+A browser-based interactive math app for exploring the unit circle, trig values, coterminal angles, and common trig identities.
+- **Interactive SVG unit circle**
+    - Displays a full unit circle with axis labels
+    - Shows standard angle positions for 0°, 30°, 45°, 60°, 90°, ... 330°
+    - Color-coded coordinate labels for cosine (x) and sine (y)
+- **Modes**
+    - `Screensaver`: cycles through special angles and shows the full triangle with exact values
+    - `Unit Circle Quiz`: step-by-step quiz phases
+    - `Coterminal Angles Quiz`: asks for an angle coterminal to a given value
+    - `Trig Identities Quiz`: shows names, formulas, explanations, and examples for common identities
+- **Angle display options**
+    - Degrees only
+    - Radians only
+    - Both degrees and radians
+- **Trig function table**
+    - Displays exact values for cos, sin, tan, sec, csc, and cot
+    - Uses symbolic forms when available (√2/2, √3/2, etc.)
+    - Falls back to numeric values otherwise
+- **Controls**
+    - Start/Stop quiz button
+    - Dropdown selection for quiz type
+    - Dropdown selection for angle format
+    - Keyboard shortcuts
+    - Touch support
+- **Save/review system**
+    - Save angles or trig identity cards
+    - Review saved items in a persistent list shown in the UI
+- Reinforces the unit circle relationship:
+    - x = cos(θ)
+    - y = sin(θ)
+    - x² + y² = 1
+- Helps memorize:
+    - standard angle coordinates
+    - exact trig values
+    - coterminal relationships
+    - trig identity formulas and use cases
+
+## February2026 - GreeneMath - Trigonometry - https://github.com/evilusean/Khan/blob/main/Trig-PreCalc/GM-Trigonometry.md :
 
 This course covers the fundamental and advanced principles of trigonometry, focusing on the relationships between angles and side lengths in triangles, the unit circle, and trigonometric functions. Key areas of study include:
 
@@ -9,13 +47,13 @@ This course covers the fundamental and advanced principles of trigonometry, focu
 * **Law of Sines and Cosines**: Solving non-right (oblique) triangles using the formulas $\frac{a}{sin A} = \frac{b}{sin B}$ and $c^2 = a^2 + b^2 - 2ab \cos(C)$.
 * **Inverse Trigonometry**: Finding angle measures using $arcsin$, $arccos$, and $arctan$ within restricted domains.
 
-## February2025 - Pic-MetaData-Ripper - https://evilusean.github.io/Pic-MetaData-Ripper/ :
+## February2026 - Pic-MetaData-Ripper - https://evilusean.github.io/Pic-MetaData-Ripper/ :
 This application extracts and displays comprehensive EXIF metadata from uploaded images using the `exif-js` library.
 
-## February2025 - Pic-MetaData-StRipper - https://evilusean.github.io/Pic-MetaData-StRipper/ :
+## February2026 - Pic-MetaData-StRipper - https://evilusean.github.io/Pic-MetaData-StRipper/ :
 This tool protects user privacy by removing all identifying EXIF metadata from images before download, utilizing `exif-js` and `canvas` for processing.
 
-## January2025 - Sesh Seans - Workout/Study Tracker and Timer - https://evilusean.github.io/Sesh-Seans :
+## January2026 - Sesh Seans - Workout/Study Tracker and Timer - https://evilusean.github.io/Sesh-Seans :
 
 A comprehensive productivity app integrating workout tracking, Pomodoro study sessions, and alarm functionality with Google Sheets sync. Features multiple independent timers, 108+ pre-configured exercises with descriptions, workout mode with pre-defined routines, and automatic data organization. Fully responsive with dark red theme.
 
