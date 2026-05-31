@@ -8,10 +8,6 @@ This app generates triangle problems across standard triangle-solving cases and 
 - How to compute the missing sides or angles
 - How to handle ambiguous SSA scenarios
 
-### Socratic Problem Flow
-- **Question phase**: the app asks what to solve next
-- **Reveal phase**: it explains the method after a timed delay
-- **Hint support**: displays optional hints for struggling users
 - **Screensaver mode**: automatically runs the step-by-step logic for study or display
 - **Quiz mode toggle**: step-by-step review mode without a timer
 
@@ -32,17 +28,6 @@ Supports all common triangle-solving scenarios:
 - **Save / Share**: save current problem state and share via link
 - **Screensaver** playback for automated review
 
-### Visual Learning UI
-- **SVG triangle renderer** with:
-  - side labels
-  - angle labels
-  - right-angle indicator
-  - highlighted triangle profile
-- **Ledger display** showing known values for:
-  - angles A, B, C
-  - sides a, b, c
-- **Feedback area** with answer-checking support
-
 ### Learning & Productivity Features
 - **Calculator panel** with trig functions:
   - sin, cos, tan, asin, acos, atan
@@ -52,7 +37,6 @@ Supports all common triangle-solving scenarios:
 - **Mistake ledger** to track errors and review weak points
 - **Vault panel** for saved problems or references
 - **Cheatsheet access** for formula reference
-
 
 ## April2026 - Trigonometry Identities + Quiz + ScreenSaver - https://evilusean.github.io/Math/Trig-Identities-CheatSheet-Quiz :
 This project combines a trig identity cheatsheet with a quiz-style study mode. 
