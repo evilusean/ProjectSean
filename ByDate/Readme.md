@@ -1,3 +1,50 @@
+## April2026 - Trigonometry Identities + Quiz + ScreenSaver - https://evilusean.github.io/Math/Trig-Identities-CheatSheet-Quiz :
+This project combines a trig identity cheatsheet with a quiz-style study mode. 
+The app uses MathJax for clean formula rendering, color-codes trig functions consistently, and supports both desktop and mobile workflows.
+- Displays a full list of trig identities.
+- Allows selecting/deselecting identities for focused study.
+- Supports:
+  - Select All / Deselect All
+  - Preset study groups:
+    - Engineering Essentials
+    - Beginner Trig
+    - Intermediate Trig
+    - Advanced Trig
+    - Calculus Focus
+    - Geometry & Triangles
+- Click a formula to copy it.
+- Expandable/collapsible identity details.
+- **Quiz Mode**
+- Presents selected identities as flashcards.
+- Moves through phases in each card:
+  1. Name
+  2. Formula
+  3. Description
+  4. Usage
+  5. Example
+- Includes navigation controls:
+  - Prev / Next
+  - Pause / Resume
+  - Save for Review
+  - Fullscreen toggle
+- Keyboard shortcuts:
+  - Arrow Left / Right to navigate
+  - Space to pause/resume
+  - Enter to save
+  - ESC to exit
+- Mobile-friendly interaction with swipe support.
+- Save & Share
+- **Included Identity Types**
+    - Reciprocal identities
+    - Quotient identities
+    - Pythagorean identities
+    - Sum and difference formulas
+    - Double-angle, half-angle, power reduction
+    - Product-to-sum and sum-to-product
+    - Even/odd and cofunction identities
+    - Law of Sines / Law of Cosines
+    - Triangle area formulas
+
 ## March2026 - Trigonometry - Unit CirculaSean - https://evilusean.github.io/Math/Unit-CirculaSean/index.html :
 A browser-based interactive math app for exploring the unit circle, trig values, coterminal angles, and common trig identities.
 - **Interactive SVG unit circle**
