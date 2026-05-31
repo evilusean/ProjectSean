@@ -1,3 +1,58 @@
+## June2026 - Interest Rate Calculator + Formula + Chart - https://evilusean.github.io/Math/Interest-Rate-Calculator :
+# Interest Rate Calculator
+
+**Interest Rate Calculator** is an interactive compound interest learning tool built as a static web app.
+
+## Project Summary
+
+This app lets users explore how compound interest grows over time by adjusting the core variables and watching formulas update in real time. It combines live formula substitution, a visual growth chart, and intuitive input controls to teach compound interest mechanics clearly.
+
+## Key Features
+
+- **Principal input** with currency prefix
+- **Annual interest rate** input in percent
+- **Compounding frequency** selector:
+  - Annually
+  - Semi-annually
+  - Quarterly
+  - Monthly
+  - Daily
+- **Time horizon** in years
+- **Optional monthly contribution** (PMT)
+- **Live formula panel** showing:
+  - discrete compound interest formula
+  - annuity future value formula (for contributions)
+  - total balance formula
+- **Dynamic header ledger** displaying:
+  - principal
+  - rate
+  - accrued interest
+  - future value
+- **Interactive reset button** to restore defaults
+- **Responsive chart** plotting growth over time
+- **Chart legend** distinguishing:
+  - principal growth
+  - contributions
+  - total balance
+- **MathJax rendering** for clear mathematical formulas
+- **Accessible input controls** with decimal and numeric modes
+
+## Learning Focus
+
+The app demonstrates:
+- how compounding frequency affects growth
+- the effect of time on exponential balance growth
+- how recurring monthly contributions change the future value
+- formula interpretation and variable substitution
+
+## Technical Notes
+
+- Static HTML/CSS/JS implementation
+- Uses MathJax 3 for formula display
+- Renders the growth curve with a canvas chart
+- Designed for easy GitHub Pages hosting
+
+
 ## May2026 - Socratic TriangulaSean - https://evilusean.github.io/Math/Socratic-TriangulaSean :
 
 **Socratic TriangulaSean** is an interactive triangle-solving tutor that uses a step-by-step Socratic workflow to teach trigonometry. It presents triangle problems visually, asks guiding questions, and reveals the solution method in phases rather than just giving the answer.
