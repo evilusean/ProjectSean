@@ -1,3 +1,59 @@
+## May2026 - Socratic TriangulaSean - https://evilusean.github.io/Math/Socratic-TriangulaSean :
+
+**Socratic TriangulaSean** is an interactive triangle-solving tutor that uses a step-by-step Socratic workflow to teach trigonometry. It presents triangle problems visually, asks guiding questions, and reveals the solution method in phases rather than just giving the answer.
+
+This app generates triangle problems across standard triangle-solving cases and guides the learner through each decision:
+- Which triangle case applies
+- Which ratio or law to use
+- How to compute the missing sides or angles
+- How to handle ambiguous SSA scenarios
+
+### Socratic Problem Flow
+- **Question phase**: the app asks what to solve next
+- **Reveal phase**: it explains the method after a timed delay
+- **Hint support**: displays optional hints for struggling users
+- **Screensaver mode**: automatically runs the step-by-step logic for study or display
+- **Quiz mode toggle**: step-by-step review mode without a timer
+
+### Triangle Case Support
+Supports all common triangle-solving scenarios:
+- **SSS** (Side-Side-Side)
+- **SAS** (Side-Angle-Side)
+- **ASA** (Angle-Side-Angle)
+- **AAS** (Angle-Angle-Side)
+- **SSA / Ambiguous Case**
+- **HL** (Hypotenuse-Leg for right triangles)
+- **Random case generation** and preset triangle selection
+
+### Interactive Tools
+- **Problem generator**: choose case type or generate a new random problem
+- **Speed control**: adjust the pace of the Socratic solution flow
+- **Timer controls**: set question, reveal, and update durations
+- **Save / Share**: save current problem state and share via link
+- **Screensaver** playback for automated review
+
+### Visual Learning UI
+- **SVG triangle renderer** with:
+  - side labels
+  - angle labels
+  - right-angle indicator
+  - highlighted triangle profile
+- **Ledger display** showing known values for:
+  - angles A, B, C
+  - sides a, b, c
+- **Feedback area** with answer-checking support
+
+### Learning & Productivity Features
+- **Calculator panel** with trig functions:
+  - sin, cos, tan, asin, acos, atan
+  - square, square root, π, basic arithmetic
+  - degree/radian mode toggle
+- **Scratchpad panel** for working out steps
+- **Mistake ledger** to track errors and review weak points
+- **Vault panel** for saved problems or references
+- **Cheatsheet access** for formula reference
+
+
 ## April2026 - Trigonometry Identities + Quiz + ScreenSaver - https://evilusean.github.io/Math/Trig-Identities-CheatSheet-Quiz :
 This project combines a trig identity cheatsheet with a quiz-style study mode. 
 The app uses MathJax for clean formula rendering, color-codes trig functions consistently, and supports both desktop and mobile workflows.
