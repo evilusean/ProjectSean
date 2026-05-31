@@ -2,13 +2,6 @@
 
 **Interest Rate Calculator** is an interactive compound interest learning tool built as a static web app.
 This app lets users explore how compound interest grows over time by adjusting the core variables and watching formulas update in real time. It combines live formula substitution, a visual growth chart, and intuitive input controls to teach compound interest mechanics clearly.
-- **Principal input** with currency prefix
-- **Annual interest rate** input in percent
-- **Compounding frequency** selector
-- **Time horizon** in years
-- **Optional monthly contribution** (PMT)
-- **Responsive chart** plotting growth over time
-- **MathJax rendering** for clear mathematical formulas
 
 ## May2026 - Socratic TriangulaSean - https://evilusean.github.io/Math/Socratic-TriangulaSean :
 
