@@ -156,7 +156,7 @@ A comprehensive interactive periodic table for university-level chemistry educat
   - Live element counter
 Perfect for chemistry students and educators seeking deep understanding of periodic trends and element properties.
 
-## November2025 - Prime-FactorizeASean : https://evilusean.github.io/Prime-FactorizeASean
+## November2025 - Prime-FactorizeASean : https://evilusean.github.io/Math/Prime-FactorizeASean
 
 A compact web tool for exploring prime numbers. Responsive Design. Learning Game, Screensaver. It provides an interactive prime factorization tree, an nth-prime finder, and an animated screensaver that visualizes primes and their multiples.
 - Prime Factorization Tree
