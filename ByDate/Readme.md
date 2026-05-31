@@ -1,5 +1,4 @@
 ## June2026 - Interest Rate Calculator + Formula + Chart - https://evilusean.github.io/Math/Interest-Rate-Calculator :
-# Interest Rate Calculator
 
 **Interest Rate Calculator** is an interactive compound interest learning tool built as a static web app.
 This app lets users explore how compound interest grows over time by adjusting the core variables and watching formulas update in real time. It combines live formula substitution, a visual growth chart, and intuitive input controls to teach compound interest mechanics clearly.
