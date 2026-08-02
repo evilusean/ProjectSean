@@ -1,3 +1,14 @@
+## July2026 - Professor Leonard - PreCalculus - https://github.com/evilusean/Khan/blob/main/Trig-PreCalc/PL-PreCalculus.md : 
+
+This course covers comprehensive precalculus concepts, focusing on advanced algebraic structures, trigonometric systems, complex numbers, vectors, and matrices. Key areas of study include:
+
+* **Composite and Inverse Functions**: Evaluating composite functions, determining function invertibility, restricting domains to create invertible functions, and verifying inverse functions graphically and algebraically.
+* **Advanced Trigonometry**: Utilizing special angle values ($\frac{\pi}{6}$, $\frac{\pi}{4}$, $\frac{\pi}{3}$), applying unit circle symmetry and periodicity identities, and solving complex sinusoidal equations and models.
+* **Trigonometric Identities & Formulas**: Proving core identities and applying angle addition, subtraction, and double-angle formulas to simplify expressions and solve equations.
+* **Complex Numbers**: Plotting and executing operations on the complex plane, calculating moduli and arguments, converting between rectangular and polar forms, and applying De Moivre's principles.
+* **Vectors**: Understanding vector fundamentals, scalar multiplication, geometric and algebraic vector addition/subtraction end-to-end, and applying the parallelogram rule.
+* **Matrices**: Performing matrix addition, scalar multiplication, and analyzing foundational matrix properties.
+
 ## June2026 - Interest Rate Calculator + Formula + Chart - https://evilusean.github.io/Math/Interest-Rate-Calculator :
 
 **Interest Rate Calculator** is an interactive compound interest learning tool built as a static web app.
