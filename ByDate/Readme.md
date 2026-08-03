@@ -1,3 +1,13 @@
+## July2026 - OrientASean - Passive Solar Planner - https://evilusean.github.io/OrientASean :
+
+This project is a client-side passive solar planning tool for evaluating how a building’s orientation, window placement, and surrounding landscape affect seasonal sunlight and shading. It combines geolocation, solar geometry, and an interactive site map in a single browser-based app.
+- Accepts latitude/longitude, window dimensions, building orientation, and tree height
+- Calculates passive solar gain and recommended overhang depth
+- Visualizes summer and winter sun paths on a top-down site map
+- Automatically adjusts recommendations for Northern vs. Southern Hemisphere locations
+- Supports geolocation, interactive analysis, and export to PNG/text report
+- Designed for both desktop and mobile workflows
+
 ## July2026 - Professor Leonard - PreCalculus - https://github.com/evilusean/Khan/blob/main/Trig-PreCalc/PL-PreCalculus.md : 
 
 This course covers comprehensive precalculus concepts, focusing on advanced algebraic structures, trigonometric systems, complex numbers, vectors, and matrices. Key areas of study include:
